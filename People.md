@@ -26,7 +26,7 @@ permalink: /Members/
   <img src="{{ site.baseurl }}/assets/Sasha.png" alt="Nelson LaMarche" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
   <div>
     <h3>Sasha Coates-Park</h3>
-    <p> Sasha is a Graduate student who is interested in understanding how the nervous and immune systems interact in the context of cancer metastases. She is particularly interested in studying brain metastases
+    <p> Sasha is a Graduate student who is interested in understanding how the nervous and immune systems interact in order to promote or deter metastases. She is particularly interested in studying brain metastases
       In her free time you can find her traveling, hiking, climbing, hanging out with her pets, or abandoning another hobby. Email her at sasha.coates-park@yale.edu</p>
   </div>
 </div>
