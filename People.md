@@ -55,8 +55,6 @@ permalink: /people/
   </div>
 </div>
 
-</div>
-
 ---
 
 ## 🐾 Lab Pets
@@ -70,11 +68,18 @@ permalink: /people/
   <p>Resident kitten. Loves laser pointers and naps on lab notebooks.</p>
 </div>
 
-<!-- Pet 2 -->
-<div style="flex: 1; min-width: 200px;">
-  <img src="/assets/images/cat.jpg" alt="Cat" style="width:100%; max-width:150px; border-radius:50%;">
-  <h3>Milo</h3>
-  <p>Senior cat. Supervises experiments and taste-tests pipette boxes.</p>
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+  <img src="{{ site.baseurl }}/assets/Bean_Pinto.png" alt="Nelson LaMarche" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
+  <div>
+    <h3>Bean and Pinto</h3>
+    <p>...</p>
+  </div>
 </div>
-
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+  <img src="{{ site.baseurl }}/assets/IV_Nikki.png" alt="Nelson LaMarche" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
+  <div>
+    <h3>IV and Nikki</h3>
+    <p>...</p>
+  </div>
+</div>
 </div>
