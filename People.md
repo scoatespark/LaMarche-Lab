@@ -79,7 +79,7 @@ permalink: /Members/
   <img src="{{ site.baseurl }}/assets/IV_Nikki.png" alt="Nelson LaMarche" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
   <div>
     <h3>IV and Nikki</h3>
-    <p>IV, named for the spots that run down his back and spell out "IV" in Morse code, short for IV Shrödinger League, adopted during Sasha's quantum chemistry era. Nikki, short for Snickers or Nikita (depending on why her government name is being used), survived a few hours in the wild before being rescued against her will, she takes this personally. In their free time they run circles around the apartment and dissociate with an empty head.  </p>
+    <p>IV (left), named for the spots that run down his back and spell out "IV" in Morse code, short for IV Shrödinger League, adopted during Sasha's quantum chemistry era. Nikki (right), short for Snickers or Nikita (depending on why her government name is being used), survived a few hours in the wild before being rescued against her will, she takes this personally. In their free time they run circles around the apartment and dissociate with an empty head.  </p>
   </div>
 </div>
 </div>
