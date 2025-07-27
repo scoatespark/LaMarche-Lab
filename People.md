@@ -6,6 +6,14 @@ permalink: /people/
 
 ## Lab Members
 
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+  <img src="{{ site.baseurl }}/assets/Nelson.png" alt="Nelson LaMarche" style="width: 150px; height: 150px; object-fit: cover; border-radius: 8px;">
+  <div>
+    <h3>Nelson LaMarche</h3>
+    <p>Principal Investigator...</p>
+  </div>
+</div>
+
 <!-- Nelson LaMarche-->
 <div style="flex: 1; min-width: 200px;">
   <img src="{{ site.baseurl }}/assets/Nelson.png" alt="Principal Investigator" style="width:100%; max-width:150px; border-radius:50%;">
