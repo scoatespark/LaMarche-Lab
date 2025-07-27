@@ -7,9 +7,9 @@ permalink: /people/
 ## Lab Members
 
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
-  <img src="{{ site.baseurl }}/assets/Nelson.png" alt="Nelson LaMarche" style="width: 150px; height: 150px; object-fit: cover; border-radius: 8px;">
+  <img src="{{ site.baseurl }}/assets/Nelson.png" alt="Nelson LaMarche" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
   <div>
-    <h3>Nelson LaMarche</h3>
+    <h3>Nelson LaMarche Ph.D</h3>
     <p>Principal Investigator...</p>
   </div>
 </div>
@@ -34,7 +34,13 @@ permalink: /people/
   <h3>Sasha Coates-Park</h3>
   <p>PhD student...</p>
 </div>
-
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+  <img src="{{ site.baseurl }}/assets/Sasha.png" alt="Nelson LaMarche" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
+  <div>
+    <h3>Sasha Coates-Park</h3>
+    <p>PhD Student</p>
+  </div>
+</div>
 <!-- Jake Fontaine -->
 <div style="flex: 1; min-width: 200px;">
   <img src="/assets/images/Sasha.jpg" alt="Graduate Student" style="width:100%; max-width:150px; border-radius:50%;">
