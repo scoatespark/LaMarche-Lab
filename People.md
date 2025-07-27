@@ -22,7 +22,7 @@ permalink: /people/
 
 <!-- Sasha Coates-Park-->
 <div style="flex: 1; min-width: 200px;">
-  <img src="/assets/Sasha.png" alt="Graduate Student" style="width:100%; max-width:150px; border-radius:50%;">
+  <img src="{{ site.baseurl }}/assets/Sasha.png" alt="Graduate Student" style="width:100%; max-width:150px; border-radius:50%;">
   <h3>Sasha Coates-Park</h3>
   <p>PhD student...</p>
 </div>
