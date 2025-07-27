@@ -72,7 +72,7 @@ permalink: /Members/
   <img src="{{ site.baseurl }}/assets/Bean_Pinto.png" alt="Nelson LaMarche" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
   <div>
     <h3>Bean and Pinto</h3>
-    <p>...</p>
+    <p>Bean (right) was rescued from a roof in Maryland and Pinto was picked out of a gutter in Puerto Rico. Bean is the peace to Pinto's chaos; together, they are best friends.</p>
   </div>
 </div>
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
