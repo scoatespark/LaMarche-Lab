@@ -10,7 +10,7 @@ permalink: /people/
 
 <!-- Nelson LaMarche -->
 <div style="flex: 1; min-width: 200px;">
-  <img src="/assets/images/Nelson.jpg" alt="Sasha" style="width:100%; max-width:150px; border-radius:50%;">
+  <img src="/assets/Nelson.png" alt="Principal Investigator" style="width:100%; max-width:150px; border-radius:50%;">
   <h3>Nelson LaMarche</h3>
   <p>Principal Investigator.</p>
 </div>
@@ -24,14 +24,14 @@ permalink: /people/
 
 <!-- Sasha Coates-Park-->
 <div style="flex: 1; min-width: 200px;">
-  <img src="/assets/images/Sasha.jpg" alt="Postdoc" style="width:100%; max-width:150px; border-radius:50%;">
+  <img src="/assets/Sasha.png" alt="Graduate Student" style="width:100%; max-width:150px; border-radius:50%;">
   <h3>Sasha Coates-Park</h3>
   <p>PhD student...</p>
 </div>
 
 <!-- Jake Fontaine -->
 <div style="flex: 1; min-width: 200px;">
-  <img src="/assets/images/Sasha.jpg" alt="Postdoc" style="width:100%; max-width:150px; border-radius:50%;">
+  <img src="/assets/images/Sasha.jpg" alt="Graduate Student" style="width:100%; max-width:150px; border-radius:50%;">
   <h3>Jake Fontaine</h3>
   <p>PhD student...</p>
 </div>
