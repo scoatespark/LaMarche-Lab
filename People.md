@@ -46,7 +46,7 @@ permalink: /people/
 <!-- Justin Baldassarre -->
 <div style="flex: 1; min-width: 200px;">
   <img src="/assets/images/Sasha.jpg" alt="Postdoc" style="width:100%; max-width:150px; border-radius:50%;">
-  <h3>Eduardo Menudo</h3>
+  <h3>Justin Baldassarre</h3>
   <p>Postgrad associate.</p>
 </div>
 
