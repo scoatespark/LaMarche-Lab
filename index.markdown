@@ -7,4 +7,4 @@ title: Home
 
 # Welcome to the LaMarche Lab
 
-We are an interdisciplinary lab focused on cancer, neuroscience, and translational immunology. Our mission is to uncover the biological mechanisms that drive disease progression and treatment resistance, and to translate those findings into actionable therapies.
+We are a cancer immunology lab in the Department of Pathology and the Yale Cancer Biology Institute. Working closely with both physicians and basic scientists, we combine high-dimensional profiling of cancer patient tissues with detailed mechanistic studies in mouse models to develop new immunotherapies for solid tumors.
