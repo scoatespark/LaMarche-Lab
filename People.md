@@ -26,7 +26,9 @@ permalink: /Members/
   <img src="{{ site.baseurl }}/assets/Sasha.png" alt="Nelson LaMarche" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
   <div>
     <h3>Sasha Coates-Park</h3>
-    <p>PhD Student</p>
+    <p>PhD Student
+      Her research focuses on the intersection of neuroscience and immunology. She is particularly interested in brain metastases
+      In her free time you can find her traveling, hiking, climbing crafting, or abandoning another hobby</p>
   </div>
 </div>
 
