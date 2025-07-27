@@ -14,26 +14,14 @@ permalink: /people/
   </div>
 </div>
 
-<!-- Nelson LaMarche-->
-<div style="flex: 1; min-width: 200px;">
-  <img src="{{ site.baseurl }}/assets/Nelson.png" alt="Principal Investigator" style="width:100%; max-width:150px; border-radius:50%;">
-  <h3>Nelson LaMarche Ph.D</h3>
-  <p>Principal Investigator</p>
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+  <img src="{{ site.baseurl }}/assets/Nelson.png" alt="Nelson LaMarche" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
+  <div>
+    <h3>Chang Zhang Ph.D</h3>
+    <p>Postdoc studying...</p>
+  </div>
 </div>
 
-<!-- Chang Zhang-->
-<div style="flex: 1; min-width: 200px;">
-  <img src="/assets/images/Chang.jpg" alt="Postdoc" style="width:100%; max-width:150px; border-radius:50%;">
-  <h3>Chang Zhang Ph.D</h3>
-  <p>Postdoc studying....</p>
-</div>
-
-<!-- Sasha Coates-Park-->
-<div style="flex: 1; min-width: 200px;">
-  <img src="{{ site.baseurl }}/assets/Sasha.png" alt="Graduate Student" style="width:100%; max-width:150px; border-radius:50%;">
-  <h3>Sasha Coates-Park</h3>
-  <p>PhD student...</p>
-</div>
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
   <img src="{{ site.baseurl }}/assets/Sasha.png" alt="Nelson LaMarche" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
   <div>
@@ -41,26 +29,30 @@ permalink: /people/
     <p>PhD Student</p>
   </div>
 </div>
-<!-- Jake Fontaine -->
-<div style="flex: 1; min-width: 200px;">
-  <img src="/assets/images/Sasha.jpg" alt="Graduate Student" style="width:100%; max-width:150px; border-radius:50%;">
-  <h3>Jake Fontaine</h3>
-  <p>PhD student... 
-  Favorite Immune Cell: B-cell</p>
+
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+  <img src="{{ site.baseurl }}/assets/Sasha.png" alt="Nelson LaMarche" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
+  <div>
+    <h3>Jake Fontaine</h3>
+    <p>PhD Student...
+    Favorite immune cell: B-Cell</p>
+  </div>
 </div>
 
-<!-- Eduardo Menoti-Silva -->
-<div style="flex: 1; min-width: 200px;">
-  <img src="/assets/images/Sasha.jpg" alt="Postdoc" style="width:100%; max-width:150px; border-radius:50%;">
-  <h3>Eduardo Menoti-Silva</h3>
-  <p>Postgrad associate.</p>
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+  <img src="{{ site.baseurl }}/assets/Sasha.png" alt="Nelson LaMarche" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
+  <div>
+    <h3>Eduardo Menoti-Silva</h3>
+    <p>Postgraduate</p>
+  </div>
 </div>
 
-<!-- Justin Baldassarre -->
-<div style="flex: 1; min-width: 200px;">
-  <img src="/assets/images/Sasha.jpg" alt="Postdoc" style="width:100%; max-width:150px; border-radius:50%;">
-  <h3>Justin Baldassarre</h3>
-  <p>Undergraduate researcher.</p>
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+  <img src="{{ site.baseurl }}/assets/Sasha.png" alt="Nelson LaMarche" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
+  <div>
+    <h3>Justin Baldassarre</h3>
+    <p>Undergraduate</p>
+  </div>
 </div>
 
 </div>
