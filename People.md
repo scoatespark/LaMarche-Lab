@@ -69,14 +69,14 @@ permalink: /Members/
 </div>
 
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
-  <img src="{{ site.baseurl }}/assets/Bean_Pinto.png" alt="Nelson LaMarche" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
+  <img src="{{ site.baseurl }}/assets/Bean_Pinto.heic" alt="Nelson LaMarche" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
   <div>
     <h3>Bean and Pinto</h3>
     <p>Bean (right) survived a housefire, was abandoned, and then rescued from a roof in Maryland. Pinto (left) was picked out of a gutter in Puerto Rico. Bean is the peace to Pinto's chaos; even with a six-year age gap, they are best friends.</p>
   </div>
 </div>
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
-  <img src="{{ site.baseurl }}/assets/IV_Nikki.png" alt="Nelson LaMarche" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
+  <img src="{{ site.baseurl }}/assets/IV_Nikki.heic" alt="Nelson LaMarche" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
   <div>
     <h3>IV and Nikki</h3>
     <p>...</p>
