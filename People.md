@@ -10,7 +10,7 @@ permalink: /people/
 
 <!-- Nelson LaMarche -->
 <div style="flex: 1; min-width: 200px;">
-  <img src="/assets/Nelson.png" alt="Principal Investigator" style="width:100%; max-width:150px; border-radius:50%;">
+  <img src="LaMarche-Lab/assets/Nelson.png" alt="Principal Investigator" style="width:100%; max-width:150px; border-radius:50%;">
   <h3>Nelson LaMarche</h3>
   <p>Principal Investigator.</p>
 </div>
