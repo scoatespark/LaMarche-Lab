@@ -45,7 +45,8 @@ permalink: /people/
 <div style="flex: 1; min-width: 200px;">
   <img src="/assets/images/Sasha.jpg" alt="Graduate Student" style="width:100%; max-width:150px; border-radius:50%;">
   <h3>Jake Fontaine</h3>
-  <p>PhD student...</p>
+  <p>PhD student... 
+  Favorite Immune Cell: B-cell</p>
 </div>
 
 <!-- Eduardo Menoti-Silva -->
