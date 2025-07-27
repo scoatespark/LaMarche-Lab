@@ -47,7 +47,7 @@ permalink: /people/
 <div style="flex: 1; min-width: 200px;">
   <img src="/assets/images/Sasha.jpg" alt="Postdoc" style="width:100%; max-width:150px; border-radius:50%;">
   <h3>Justin Baldassarre</h3>
-  <p>Postgrad associate.</p>
+  <p>Undergraduate researcher.</p>
 </div>
 
 </div>
