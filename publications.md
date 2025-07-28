@@ -18,11 +18,12 @@ permalink: /publications/
     onmouseout="this.style.transform='scale(1)'">
   <div>
     <h3 style="margin-top: 0;">An IL-4 signalling axis in bone marrow drives pro-tumorigenic myelopoiesis</h3>
-    <p><strong>LaMarche N</strong>, Hegde S, Park M, Maier B, Troncoso L, Le Berichel J, Hamon P, Belabed M, Mattiuz R, Hennequin C, Chin T, Reid A, Reyes-Torres I, Nemeth E, Zhang R, Olson O, Doroshow DB, Rohs NC, Gomez JE, Veluswamy R, Hall N, Venturini N, Ginhoux F, Liu Z, Buckup M, Figueiredo I, Roudko V, Miyake K, Karasuyama H, Gonzales-Kozlova E, Gnjatic S, Passegué E, Kim-Schulze S, Brown BD, Hirsch FR, Kim BS, Marron TU, Merad M
+    <p><strong>LaMarche N</strong>, Hegde S, Park M, Maier B, Troncoso L, Le Berichel J, Hamon P, Belabed M, Mattiuz R, Hennequin C, Chin T, Reid A, Reyes-Torres I, Nemeth E, Zhang R, Olson O, Doroshow D, Rohs N, Gomez J, Veluswamy R, Hall N, Venturini N, Ginhoux F, Liu Z, Buckup M, Figueiredo I, Roudko V, Miyake K, Karasuyama H, Gonzalez-Kozlova E, Gnjatic S, Passegué E, Kim-Schulze S, Brown B, Hirsch F, Kim B, Marron T, Merad M. 
   <div>
-      <br><em>Nature</em>, 2024.</p>
+      <br><em>Nature</em>, 2023.</p>
     <p>
-      <a href="[10.1038/s41586-023-06797-9](https://www.nature.com/articles/s41586-023-06797-9)" target="_blank">DOI</a> |
+      <a href="[10.1038/s41586-023-06797-9](https://www.nature.com/articles/s41586-023-06797-9)" target="_blank">PMID:38057662</a> |
+      <a href="https://www.nature.com/articles/s41586-023-06797-9" target="_blank">DOI</a> |
       <a href="{{ site.baseurl }}/assets/An IL-4 signalling axis in bone marrow drives
 pro-tumorigenic myelopoiesis" target="_blank">PDF</a>
     </p>
