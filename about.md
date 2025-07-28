@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-## About the Lab
-
 We are currently exploring the following projects:
 
 ### 🧠 Project 1: Neuroimmune Crosstalk in Cancer
