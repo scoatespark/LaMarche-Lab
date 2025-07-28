@@ -23,7 +23,8 @@ permalink: /publications/
       <br><em>Nature</em>, 2024.</p>
     <p>
       <a href="[10.1038/s41586-023-06797-9](https://www.nature.com/articles/s41586-023-06797-9)" target="_blank">DOI</a> |
-      <a href="{{ site.baseurl }}/assets/papers/2025-sensory-niche.pdf" target="_blank">PDF</a>
+      <a href="{{ site.baseurl }}/assets/An IL-4 signalling axis in bone marrow drives
+pro-tumorigenic myelopoiesis" target="_blank">PDF</a>
     </p>
   </div>
 </div>
