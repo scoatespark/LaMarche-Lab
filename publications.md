@@ -11,7 +11,7 @@ permalink: /publications/
 <!-- Publication 1 -->
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px;">
   <img 
-    src="{{ site.baseurl }}/assets/images/2025-sensory-paper.png" 
+    src="{{ site.baseurl }}/assets/practiceimage.png" 
     alt="Graphical Abstract" 
     style="width: 200px; transition: transform 0.3s ease; border: 1px solid #ccc;" 
     onmouseover="this.style.transform='scale(1.05)'" 
