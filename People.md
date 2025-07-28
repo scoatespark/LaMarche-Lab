@@ -23,8 +23,13 @@ permalink: /Members/
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
   <img src="{{ site.baseurl }}/assets/Sasha.png" alt="Nelson LaMarche" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
   <div>
-    <h3>Sasha Coates-Park</h3>
-    <p> Sasha is a graduate student whose research focuses on the interplay between the nervous and immune systems in regulating metastatic progression. She is especially interested in uncovering the mechanisms that drive or suppress brain metastases. In her free time you can find her traveling, hiking, climbing, hanging out with her pets, or abandoning yet another hobby. Email her at <a href="mailto:sasha.coates-park@yale.edu">sasha.coates-park@yale.edu</a>
+    <h3>Sasha Coates–Park</h3>
+    <p>
+      Sasha is a graduate student whose research focuses on the interplay between the nervous and immune systems in regulating metastatic progression. 
+      She is especially interested in uncovering the mechanisms that drive or suppress brain metastases. 
+      In her free time you can find her traveling, hiking, climbing, hanging out with her pets, or abandoning yet another hobby. 
+      Email her at <a href="mailto:sasha.coates-park@yale.edu">sasha.coates-park@yale.edu</a>.
+    </p>
   </div>
 </div>
 
