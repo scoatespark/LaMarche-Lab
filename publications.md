@@ -24,7 +24,7 @@ permalink: /publications/
     <p>
       <a href="https://www.nature.com/articles/s41586-023-06797-9" target="_blank">DOI</a> |
       <a href="{{ site.baseurl }}/assets/An IL-4 signalling axis in bone marrow drives
-pro-tumorigenic myelopoiesis" target="_blank">PDF</a>
+pro-tumorigenic myelopoiesis.pdf" target="_blank">PDF</a>
     </p>
   </div>
 </div>
