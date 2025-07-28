@@ -6,32 +6,43 @@ permalink: /publications/
 
 ## Selected Publications
 
-<!-- Each publication can be grouped by year or topic -->
+<div style="display: flex; flex-direction: column; gap: 40px;">
 
-### 2025
+<!-- Publication 1 -->
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px;">
+  <img 
+    src="{{ site.baseurl }}/assets/images/2025-sensory-paper.png" 
+    alt="Graphical Abstract" 
+    style="width: 200px; transition: transform 0.3s ease; border: 1px solid #ccc;" 
+    onmouseover="this.style.transform='scale(1.05)'" 
+    onmouseout="this.style.transform='scale(1)'">
+  <div>
+    <h3 style="margin-top: 0;">Sensory neuron–driven reprogramming of myeloid cells in the pre-metastatic niche</h3>
+    <p><strong>Coates-Park S</strong>, LaMarche N, Kim T.  
+    <br><em>Cancer Cell</em>, 2025.</p>
+    <p>
+      <a href="https://doi.org/xxxx" target="_blank">DOI</a> |
+      <a href="{{ site.baseurl }}/assets/papers/2025-sensory-niche.pdf" target="_blank">PDF</a>
+    </p>
+  </div>
+</div>
 
-**Coates-Park S**, LaMarche N, Kim T.  
-*Sensory neuron–driven reprogramming of myeloid cells in the pre-metastatic niche*.  
-**Cancer Cell**, 2025. [DOI](https://doi.org/xxxx) [PDF](/assets/papers/2025-sensory-niche.pdf)
+<!-- Publication 2 -->
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px;">
+  <img 
+    src="{{ site.baseurl }}/assets/images/2025-il4-paper.png" 
+    alt="Graphical Abstract" 
+    style="width: 200px; transition: transform 0.3s ease; border: 1px solid #ccc;" 
+    onmouseover="this.style.transform='scale(1.05)'" 
+    onmouseout="this.style.transform='scale(1)'">
+  <div>
+    <h3 style="margin-top: 0;">IL-4-dependent microglial plasticity in brain metastases</h3>
+    <p><strong>Kim T</strong>, Coates-Park S, LaMarche N.  
+    <br><em>Nature Immunology</em>, 2025.</p>
+    <p>
+      <a href="https://doi.org/yyyy" target="_blank">DOI</a>
+    </p>
+  </div>
+</div>
 
----
-
-**Kim T**, Coates-Park S, LaMarche N.  
-*IL-4-dependent microglial plasticity in brain metastases*.  
-**Nature Immunology**, 2025. [DOI](https://doi.org/xxxx)
-
----
-
-### 2024
-
-**Coates-Park S**, Singh R, LaMarche N.  
-*Dural macrophages promote immune quiescence in early CNS metastasis*.  
-**Journal of Experimental Medicine**, 2024. [DOI](https://doi.org/xxxx)
-
----
-
-## 📄 Preprints & Manuscripts in Preparation
-
-- *Neuronal detection of melanoma primes the bone marrow* — in preparation  
-- *Osteopontin+ niche cells shape immune escape* — bioRxiv preprint ([link](https://biorxiv.org/...))
-
+</div>
