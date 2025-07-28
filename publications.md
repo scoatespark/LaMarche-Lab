@@ -21,7 +21,7 @@ permalink: /publications/
     <p><strong>LaMarche N</strong>, Hegde S, Park M, Maier B, Troncoso L, Le Berichel J, Hamon P, Belabed M, Mattiuz R, Hennequin C, Chin T, Reid A, Reyes-Torres I, Nemeth E, Zhang R, Olson O, Doroshow DB, Rohs NC, Gomez JE, Veluswamy R, Hall N, Venturini N, Ginhoux F, Liu Z, Buckup M, Figueiredo I, Roudko V, Miyake K, Karasuyama H, Gonzales-Kozlova E, Gnjatic S, Passegué E, Kim-Schulze S, Brown BD, Hirsch FR, Kim BS, Marron TU, Merad M
     <br><em>Nature</em>, 2024.</p>
     <p>
-      <a href="10.1038/s41586-023-06797-9" target="_blank">DOI</a> |
+      <a href="[10.1038/s41586-023-06797-9](https://www.nature.com/articles/s41586-023-06797-9)" target="_blank">DOI</a> |
       <a href="{{ site.baseurl }}/assets/papers/2025-sensory-niche.pdf" target="_blank">PDF</a>
     </p>
   </div>
