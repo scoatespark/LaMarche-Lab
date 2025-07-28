@@ -11,7 +11,7 @@ permalink: /publications/
 <!-- An IL-4 signalling axis in bone marrow drives pro-tumorigenic myelopoiesis -->
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px;">
   <img 
-    src="{{ site.baseurl }}/assets/practiceimage.png" 
+    src="{{ site.baseurl }}/assets/nelsonil4paper.png" 
     alt="Graphical Abstract" 
     style="width: 200px; transition: transform 0.3s ease; border: 1px solid #ccc;" 
     onmouseover="this.style.transform='scale(1.05)'" 
@@ -22,7 +22,6 @@ permalink: /publications/
   <div>
       <br><em>Nature</em>, 2023.</p>
     <p>
-      <a href="[10.1038/s41586-023-06797-9](https://www.nature.com/articles/s41586-023-06797-9)" target="_blank">PMID:38057662</a> |
       <a href="https://www.nature.com/articles/s41586-023-06797-9" target="_blank">DOI</a> |
       <a href="{{ site.baseurl }}/assets/An IL-4 signalling axis in bone marrow drives
 pro-tumorigenic myelopoiesis" target="_blank">PDF</a>
