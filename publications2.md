@@ -8,7 +8,7 @@ permalink: /publications/
 
 <div style="margin-bottom: 30px; padding: 20px; border-radius: 8px; background-color: #f9f9f9; box-shadow: 0 0 5px rgba(0,0,0,0.05);">
   <h3>
-    <a href="https://doi.org/10.1016/j.matbio.2023.09.002"
+    <a href="[https://doi.org/10.1016/j.matbio.2023.09.002](https://www.nature.com/articles/s41586-023-06797-9)"
        style="color: #0056b3; text-decoration: none;"
        onmouseover="this.style.color='#003366'"
        onmouseout="this.style.color='#0056b3'">
