@@ -23,20 +23,37 @@ permalink: /publications/
   <em style="color: gray;">Peer-Reviewed Original Research</em>
 </div>
 
+<div style="margin-bottom: 30px; padding: 20px; border-radius: 8px; background-color: #f9f9f9; box-shadow: 0 0 5px rgba(0,0,0,0.05);">
+  <h3>
+    <a href="https://pubmed.ncbi.nlm.nih.gov/32516575/"
+       style="color: #0056b3; text-decoration: none;"
+       onmouseover="this.style.color='#003366'"
+       onmouseout="this.style.color='#0056b3'">
+      Distinct iNKT Cell Populations Use IFNγ or ER Stress-Induced IL-10 to Control Adipose Tissue Homeostasis.
+    </a>
+  </h3>
+  <p>LaMarche NM, Kane H, Kohlgruber AC, Dong H, Lynch L, Brenner MB.<br>
+     <em>Cell Metabolism</em> 2020, 32: 243-258.e6.
+     <a href="https://pubmed.ncbi.nlm.nih.gov/32516575/">PMID: 32516575</a>,
+     DOI: 10.1016/j.cmet.2020.05.017.
+  </p>
+  <em style="color: gray;">Peer-Reviewed Original Research</em>
+</div>
 ## 2023
 
 <div style="margin-bottom: 30px; padding: 20px; border-radius: 8px; background-color: #f9f9f9; box-shadow: 0 0 5px rgba(0,0,0,0.05);">
   <h3>
-    <a href="https://doi.org/10.1021/acs.jproteome.4c00996"
+    <a href="https://pubmed.ncbi.nlm.nih.gov/37081148/"
        style="color: #0056b3; text-decoration: none;"
        onmouseover="this.style.color='#003366'"
        onmouseout="this.style.color='#0056b3'">
-      Mapping Extracellular Protein-Protein Interactions Using Extracellular Proximity Labeling (ePL).
+     TREM2 macrophages drive NK cell paucity and dysfunction in lung cancer.
     </a>
   </h3>
-  <p>Peeney D, Gurung S, Rich JA, Coates-Park S, Liu Y, Toor J, Jones J, Richie CT, Jenkins LM, Stetler-Stevenson WG.<br>
-     <em>J Proteome Res</em> 2024, 23: 4715–4728.
-     <a href="https://pubmed.ncbi.nlm.nih.gov/39238192/">PMID: 39238192</a>,
-     DOI: 10.1021/acs.jproteome.4c00996.
+  <p>Park MD, Reyes-Torres I, LeBerichel J, Hamon P, LaMarche NM, Hegde S, Belabed M, Troncoso L, Grout JA, Magen A, Humblin E, Nair A, Molgora M, Hou J, Newman JH, Farkas AM, Leader AM, Dawson T, D'Souza D, Hamel S, Sanchez-Paulete AR, Maier B, Bhardwaj N, Martin JC, Kamphorst AO, Kenigsberg E, Casanova-Acebes M, Horowitz A, Brown BD, De Andrade LF, Colonna M, Marron TU, Merad M. <br>
+     <em>J Nature Immunology</em> 2023, 24: 792-801.
+     <a href="https://pubmed.ncbi.nlm.nih.gov/37081148/">PMID: 37081148</a>,
+     DOI: 10.1038/s41590-023-01475-4.
   </p>
+  <em style="color: gray;">Peer-Reviewed Original Research</em>
 </div>
