@@ -12,35 +12,18 @@ permalink: /publications/
        style="color: #0056b3; text-decoration: none;"
        onmouseover="this.style.color='#003366'"
        onmouseout="this.style.color='#0056b3'">
-      Tissue inhibitors of metalloproteinases are proteolytic targets of matrix metalloproteinase 9.
+      An IL-4 signalling axis in bone marrow drives pro-tumorigenic myelopoiesis
     </a>
   </h3>
-  <p>Coates-Park S, Lazaroff C, Gurung S, Rich J, Colladay A, O'Neill M, Butler GS, Overall CM, Stetler-Stevenson WG, Peeney D.<br>
-     <em>Matrix Biol</em> 2023, 123: 59–70.
-     <a href="https://pubmed.ncbi.nlm.nih.gov/37804930/">PMID: 37804930</a>,
-     DOI: 10.1016/j.matbio.2023.09.002.
+  <p>LaMarche N, Hegde S, Park M, Maier B, Troncoso L, Le Berichel J, Hamon P, Belabed M, Mattiuz R, Hennequin C, Chin T, Reid A, Reyes-Torres I, Nemeth E, Zhang R, Olson O, Doroshow D, Rohs N, Gomez J, Veluswamy R, Hall N, Venturini N, Ginhoux F, Liu Z, Buckup M, Figueiredo I, Roudko V, Miyake K, Karasuyama H, Gonzalez-Kozlova E, Gnjatic S, Passegué E, Kim-Schulze S, Brown B, Hirsch F, Kim B, Marron T, Merad M.<br>
+     <em>Nature</em> 2023, 625: 166-174.
+     <a href="[https://pubmed.ncbi.nlm.nih.gov/37804930/](https://www.nature.com/articles/s41586-023-06797-9)">PMID: 38057662</a>,
+     DOI: 10.1038/s41586-023-06797-9.
   </p>
   <em style="color: gray;">Peer-Reviewed Original Research</em>
 </div>
 
-<div style="margin-bottom: 30px; padding: 20px; border-radius: 8px; background-color: #f9f9f9; box-shadow: 0 0 5px rgba(0,0,0,0.05);">
-  <h3>
-    <a href="https://doi.org/10.1152/ajpcell.00699.2023"
-       style="color: #0056b3; text-decoration: none;"
-       onmouseover="this.style.color='#003366'"
-       onmouseout="this.style.color='#0056b3'">
-      The TIMP protein family: diverse roles in pathophysiology.
-    </a>
-  </h3>
-  <p>Coates-Park S, Rich JA, Stetler-Stevenson WG, Peeney D.<br>
-     <em>Am J Physiol Cell Physiol</em> 2024, 326: C917–C934.
-     <a href="https://pubmed.ncbi.nlm.nih.gov/38284123/">PMID: 38284123</a>,
-     DOI: 10.1152/ajpcell.00699.2023.
-  </p>
-  <em style="color: gray;">Peer-Reviewed Reviews, Practice Guidelines, Standards, and Consensus Statements</em>
-</div>
-
-## 2024
+## 2023
 
 <div style="margin-bottom: 30px; padding: 20px; border-radius: 8px; background-color: #f9f9f9; box-shadow: 0 0 5px rgba(0,0,0,0.05);">
   <h3>
