@@ -46,7 +46,7 @@ permalink: /Members/
   <img src="{{ site.baseurl }}/assets/Eduardo.png" alt="Nelson LaMarche" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
   <div>
     <h3>Eduardo Menoti-Silva</h3>
-    <p>Postgraduate</p>
+    <p>Postgraduate associate</p>
   </div>
 </div>
 
