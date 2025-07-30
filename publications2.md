@@ -39,6 +39,7 @@ permalink: /publications/
   </p>
   <em style="color: gray;">Peer-Reviewed Original Research</em>
 </div>
+
 ## 2023
 
 <div style="margin-bottom: 30px; padding: 20px; border-radius: 8px; background-color: #f9f9f9; box-shadow: 0 0 5px rgba(0,0,0,0.05);">
