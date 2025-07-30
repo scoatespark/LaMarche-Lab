@@ -86,3 +86,16 @@ permalink: /Members/
   </div>
 </div>
 </div>
+
+---
+
+## Previous Members
+
+<div style="display: flex; flex-wrap: wrap; gap: 30px;">
+
+<!-- George Mourgkos -->
+<div style="flex: 1; min-width: 200px;">
+  <img src="/assets/George.jpg" alt="George" style="width:100%; max-width:150px; border-radius:50%;">
+  <h3>Pixel</h3>
+  <p>Former post-graduate associate in the LaMarche Lab, currently pursuing an MD at Stanford Medical School </p>
+</div>
