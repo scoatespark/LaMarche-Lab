@@ -2,3 +2,5 @@ title: LaMarche Lab
 description: Cancer. Immunology. Translational Research.
 theme: minima
 baseurl: "/LaMarche-Lab"
+plugins:
+  - jekyll-sitemap
