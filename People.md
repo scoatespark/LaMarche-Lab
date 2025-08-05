@@ -27,7 +27,7 @@ permalink: /Members/
     <p>
       Sasha is a graduate student whose research focuses on the interplay between the nervous and immune systems in regulating metastatic progression. 
       She is especially interested in uncovering the mechanisms that drive or suppress brain metastases. 
-      In her free time you can find her traveling, hiking, climbing, hanging out with her pets, or abandoning yet another hobby. 
+      In her free time you can find her traveling, hiking, climbing, hanging out with her pets, building something, or abandoning yet another hobby. 
       Email her at <a href="mailto:sasha.coates-park@yale.edu">sasha.coates-park@yale.edu</a>.
     </p>
   </div>
