@@ -16,7 +16,9 @@ permalink: /Members/
   <img src="{{ site.baseurl }}/assets/Chang.png" alt="Post-doc" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
   <div>
     <h3>Chang Zhang Ph.D</h3>
-    <p>Postdoc studying...</p>
+    <p>Chang received his PhD in Biochemistry and Molecular Biology in 2020 from Shanghai Institute for Biological Science, Chinese Academy of Science (CAS) where I was focusing on the splicing factor’s role in liver cancer. In 2020, I joined the Institute of Neuroscience of CAS to start my postdoctoral training on gene therapy based on CRISPR. In 2022, I joined Dr. Müschen lab at Yale and investigated the mitochondrial fission/fusion in B cell development and B-cell malignancies. In 2024, I started to work with Dr. LaMarche at Yale on the project of IL18’s functions in controlling non-small cell lung cancer (NSCLC). I am interested in how the distinctive immune microenvironment regulates tumorigenesis and in translating laboratory discoveries into clinical therapies.
+
+I love Chinese calligraphy and music. I also cherish my family, my wife and our two lovely daughters. At home, they’re all my bosses.</p>
   </div>
 </div>
 
@@ -43,10 +45,10 @@ permalink: /Members/
 </div>
 
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
-  <img src="{{ site.baseurl }}/assets/Eduardo.png" alt="Nelson LaMarche" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
+  <img src="{{ site.baseurl }}/assets/Eduardo.jpg" alt="Nelson LaMarche" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
   <div>
     <h3>Eduardo Menoti-Silva</h3>
-    <p>Postgraduate associate</p>
+    <p>Eduardo is a Brazilian guy from the countryside, curious about technology and fascinated by all living things. He is interested in computational biology, machine learning, and immunology. In his spare time, he spends an alarming number of hours trying to figure out where he is in the world on GeoGuessr.Email him at <a href="mailto:eduardo.menotisilva@yale.edu">eduardo.menotisilva@yale.edu</a>.</p>
   </div>
 </div>
 
