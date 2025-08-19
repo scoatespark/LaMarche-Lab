@@ -6,11 +6,6 @@ permalink: /about/
 
 We are currently exploring the following projects:
 
-<!--
-Paste this whole block into a Jekyll/GitHub Pages page (e.g., research.md using raw HTML)
-OR save as research.html in your site and link to it. Replace placeholder content as needed.
-This is a self‑contained, responsive layout with image + caption, bolded title, summary, and a contact line.
--->
 <style>
   :root{
     --maxw: 1100px;
