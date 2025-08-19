@@ -134,6 +134,7 @@ Our primary research focuses on the following areas:
     <article class="project">
       <div class="project-media">
         <figure>
+          <img src="{{ site.baseurl }}/assets/eduardoimage.png"
           <img src="assets/eduardoimage.png" alt="hello" loading="lazy"/>
           <figcaption> RNA seq data... </figcaption>
         </figure>
