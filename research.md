@@ -115,7 +115,7 @@ These are some of the areas of research we are most involved in:
     </article>
 
         <!-- Myelopoiesis -->
-    <article class="Myelopoiesis">
+    <article class="project">
       <div class="project-media">
         <figure>
           <img src="/assets/jakeimage.jpg" alt="Heatmap-like microscopy images showing immune cell niches after loss of ADAR1 in B16 melanoma" loading="lazy"/>
@@ -131,7 +131,7 @@ These are some of the areas of research we are most involved in:
     </article>
     
     <!-- RNA Sequencing -->
-    <article class="RNA Sequencing">
+    <article class="project">
       <div class="project-media">
         <figure>
           <img src="/assets/eduardoimage.png" alt="Scatter plot from a genome-wide CRISPR screen highlighting interferon pathway genes" loading="lazy"/>
