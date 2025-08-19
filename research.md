@@ -109,7 +109,7 @@ Our primary research focuses on the following areas:
   <div class="project-body">
     <h2 class="project-title"><strong>Title...</strong></h2>
     <p class="project-summary">description...</p>
-    <p class="project-contact">Contact: <a href="mailto:"sasha.coates-park@yale.edu">Sasha</a></p>
+    <p class="project-contact">Contact: <a href="mailto:sasha.coates-park@yale.edu">Sasha</a></p>
     <p class="project-tags">Keywords: ... </p>
   </div>
 </article>
@@ -125,7 +125,7 @@ Our primary research focuses on the following areas:
       <div class="project-body">
         <h2 class="project-title"><strong>Myelopoiesis</strong></h2>
         <p class="project-summary">description...</p>
-        <p class="project-contact">Contact: <a href="mailto:jake.fontaine@yale.edu">Jake</a></p>
+        <p class="project-contact">Contact: <a href="mailto:jak.fontaine@yale.edu">Jake</a></p>
         <p class="project-tags">Keywords: ... </p>
       </div>
     </article>
