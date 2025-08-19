@@ -134,8 +134,8 @@ These are some of the areas of research we are most involved in:
     <article class="project">
       <div class="project-media">
         <figure>
-          <img src="/assets/eduardoimage.png" alt="Scatter plot from a genome-wide CRISPR screen highlighting interferon pathway genes" loading="lazy"/>
-          <figcaption> </figcaption>
+          <img src="assets/eduardoimage.png" alt="hello" loading="lazy"/>
+          <figcaption> RNA seq data... </figcaption>
         </figure>
       </div>
       <div class="project-body">
