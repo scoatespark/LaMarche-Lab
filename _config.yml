@@ -4,3 +4,10 @@ theme: minima
 baseurl: "/LaMarche-Lab"
 plugins:
   - jekyll-sitemap
+
+header_pages:
+  - index.md        # Home
+  - research.md     # Research
+  - publications.md # Publications
+  - members.md      # Members
+  - contact.md      # Contact
