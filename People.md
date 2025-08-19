@@ -95,5 +95,7 @@ Chang loves Chinese calligraphy and music. He also cherishes his family, his wif
 <div style="display: flex; flex-wrap: wrap; gap: 30px;">
 
 <!-- George Mourgkos -->
-  <p>Former post-graduate associate in the LaMarche Lab, currently pursuing an MD at Stanford Medical School </p>
-</div>
+<div>
+    <h3>George Mourgkos</h3>
+    <p>Former post-graduate associate in the LaMarche Lab, currently pursuing an MD at Stanford Medical School</p>
+  </div>
