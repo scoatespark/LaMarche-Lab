@@ -117,22 +117,37 @@ These are some of the areas of research we are most involved in:
       </div>
     </article>
 
-        <!-- Project 1 -->
-    <article class="project">
+        <!-- Myelopoiesis -->
+    <article class="Myelopoiesis">
       <div class="project-media">
         <figure>
-          <img src="/assets/eduardoimage.png" alt="Heatmap-like microscopy images showing immune cell niches after loss of ADAR1 in B16 melanoma" loading="lazy"/>
+          <img src="/assets/jakeimage.jpg" alt="Heatmap-like microscopy images showing immune cell niches after loss of ADAR1 in B16 melanoma" loading="lazy"/>
           <figcaption>Understanding how lung cancer effects lymphocytes in regulating myelopoiesis."</figcaption>
         </figure>
       </div>
       <div class="project-body">
-        <h2 class="project-title"><strong>RNA Sequencing</strong></h2>
+        <h2 class="project-title"><strong>Myelopoiesis</strong></h2>
         <p class="project-summary">        </p>
         <p class="project-contact">Contact: <a href="mailto:firstname.lastname@yale.edu">Firstname Lastname</a></p>
         <p class="project-tags">Keywords: ADAR1, dsRNA, interferon signaling, checkpoint blockade</p>
       </div>
     </article>
-
+    
+    <!-- RNA Sequencing -->
+    <article class="RNA Sequencing">
+      <div class="project-media">
+        <figure>
+          <img src="/assets/eduardoimage.png" alt="Scatter plot from a genome-wide CRISPR screen highlighting interferon pathway genes" loading="lazy"/>
+          <figcaption> </figcaption>
+        </figure>
+      </div>
+      <div class="project-body">
+        <h2 class="project-title"><strong>Identification of novel drug targets for immunotherapy</strong></h2>
+        <p class="project-summary">Using pooled CRISPR/Cas9 functional genomics, we discover and validate genes that overcome resistance to immunotherapy. We combine <em>in vitro</em> and <em>in vivo</em> models to define the patient subsets most likely to benefit from targeted interventions.</p>
+        <p class="project-contact">Contact: <a href="mailto:pi.lastname@yale.edu">PI Lastname</a></p>
+        <p class="project-tags">Keywords: CRISPR screens, interferon pathway, resistance mechanisms</p>
+      </div>
+    </article>
     <!-- Duplicate <article class="project">…</article> blocks for more projects -->
 
   </div>
