@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
 
-**Email:** <a href="mailto:nelson.lamarche@yale.edu">nelson.lamarche@yale.edu</a>.
+**Email:** <a href="mailto:nelson.lamarche@yale.edu">nelson.lamarche@yale.edu</a>. <br>
 **Phone:** (203)-737-7594 <br>
 **Address:**  <br>
 LaMarche Lab  <br>
