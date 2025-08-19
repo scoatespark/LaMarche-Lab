@@ -139,7 +139,7 @@ These are some of the areas of research we are most involved in:
         </figure>
       </div>
       <div class="project-body">
-        <h2 class="project-title"><strong>Identification of novel drug targets for immunotherapy</strong></h2>
+        <h2 class="project-title"><strong>RNA Sequencing></h2>
         <p class="project-summary">Using pooled CRISPR/Cas9 functional genomics, we discover and validate genes that overcome resistance to immunotherapy. We combine <em>in vitro</em> and <em>in vivo</em> models to define the patient subsets most likely to benefit from targeted interventions.</p>
         <p class="project-contact">Contact: <a href="mailto:pi.lastname@yale.edu">PI Lastname</a></p>
         <p class="project-tags">Keywords: CRISPR screens, interferon pathway, resistance mechanisms</p>
