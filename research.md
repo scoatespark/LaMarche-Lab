@@ -26,7 +26,7 @@ Our primary research focuses on the following areas:
   }
   .research-heading{
     font-size: clamp(2.25rem, 4vw, 3.5rem);
-    font-weight: 700;
+    font-weight: 500;
     letter-spacing: .5px;
     text-align: center;
     margin: 0 0 2rem 0;
@@ -71,7 +71,7 @@ Our primary research focuses on the following areas:
   }
   .project-body{ display:flex; flex-direction:column; gap:.6rem; }
   .project-title{ 
-    font-weight: 800; 
+    font-weight: 600; 
     font-size: clamp(1.15rem, 1.2rem + .5vw, 1.6rem); 
     margin: .25rem 0 .25rem; 
   }
