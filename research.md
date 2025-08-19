@@ -53,10 +53,10 @@ Our primary research focuses on the following areas:
   }
   .project-media figure{ 
     margin:0; 
-    border-radius: calc(var(--radius) - 4px); 
+    border-radius:0;
     overflow:hidden; 
-    background: color-mix(in oklab, Canvas 94%, black 3%);
-    border: 1px solid color-mix(in oklab, CanvasText 20%, Canvas 85%);
+    background: none;
+    border: none;
   }
   .project-media img{
     width: 100%; height: auto; display:block; object-fit: cover; 
