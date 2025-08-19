@@ -2,8 +2,9 @@
 layout: default
 title: Home
 ---
+<img src="{{ '/assets/logo.png' | relative_url }}" alt="Lab Logo" style="height:40px;">
 
-<img src="/assets/Screenshot 2025-07-27 at 11.48.23.png" alt="Lab Logo" style="width:200px;"/>
+#<img src="/assets/Screenshot 2025-07-27 at 11.48.23.png" alt="Lab Logo" style="width:200px;"/>
 
 # Welcome to the LaMarche Lab
 
