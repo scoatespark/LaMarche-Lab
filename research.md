@@ -141,7 +141,7 @@ Our primary research focuses on the following areas:
   <div class="project-body">
     <h2 class="project-title"><strong>RNA Sequencing</strong></h2>
     <p class="project-summary">Description...</p>
-    <p class="project-contact">Contact: <a href="mailto:"eduardo.menotisilva@yale.edu">Eduardo</a></p>
+    <p class="project-contact">Contact: <a href="mailto:eduardo.menotisilva@yale.edu>Eduardo</a></p>
     <p class="project-tags">Keywords: key words...</p>
   </div>
 </article>
