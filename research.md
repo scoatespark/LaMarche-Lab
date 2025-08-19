@@ -141,7 +141,7 @@ Our primary research focuses on the following areas:
   <div class="project-body">
     <h2 class="project-title"><strong>RNA Sequencing</strong></h2>
     <p class="project-summary">Using pooled CRISPR/Cas9 functional genomics, we discover and validate genes that overcome resistance to immunotherapy. We combine <em>in vitro</em> and <em>in vivo</em> models to define the patient subsets most likely to benefit from targeted interventions.</p>
-    <p class="project-contact">Contact: <a href="mailto:pi.lastname@yale.edu">PI Lastname</a></p>
+    <p class="project-contact">Contact: <a href="mailto:"Menoti Silva, Eduardo" <eduardo.menotisilva@yale.edu>">Eduardo</a></p>
     <p class="project-tags">Keywords: CRISPR screens, interferon pathway, resistance mechanisms</p>
   </div>
 </article>
