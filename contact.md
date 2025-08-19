@@ -4,12 +4,11 @@ title: Contact
 permalink: /contact/
 ---
 
-## Contact Us
 
 **Email:** nelson.lamarche@yale.edu  
-**Phone:** (203)-737-7594
-**Address:**  
-LaMarche Lab  
-West Campus Advanced Biosciences Center
-840 West Campus Drive, Fl 3, Rm 357A
+**Phone:** (203)-737-7594 <br>
+**Address:**  <br>
+LaMarche Lab  <br>
+West Campus Advanced Biosciences Center <br>
+840 West Campus Drive, Fl 3, Rm 357A <br>
 West Haven, CT 06516
