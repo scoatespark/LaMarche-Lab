@@ -6,8 +6,8 @@ plugins:
   - jekyll-sitemap
 
 header_pages:
-  - index.md        # Home
+  - index.markdown        # Home
   - research.md     # Research
-  - publications.md # Publications
-  - members.md      # Members
+  - publications2.md # Publications
+  - People.md      # Members
   - contact.md      # Contact
