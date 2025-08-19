@@ -117,11 +117,11 @@ Our primary research focuses on the following areas:
         <!-- Myelopoiesis -->
     <article class="project">
       <div class="project-media">
-        <figure>
-          <img src="/assets/jakeimage.jpg" alt="Heatmap-like microscopy images showing immune cell niches after loss of ADAR1 in B16 melanoma" loading="lazy"/>
-          <figcaption>Understanding how lung cancer effects lymphocytes in regulating myelopoiesis."</figcaption>
-        </figure>
-      </div>
+    <figure>
+      <img src="{{ '/assets/jakeimage.jpg' | relative_url }}" alt="myelopoiesis image" loading="lazy"/>
+      <figcaption>"Understanding how lung cancer affects lymphocytes in regulating myelopoiesis."</figcaption>
+    </figure>
+  </div>
       <div class="project-body">
         <h2 class="project-title"><strong>Myelopoiesis</strong></h2>
         <p class="project-summary">        </p>
@@ -146,32 +146,6 @@ Our primary research focuses on the following areas:
   </div>
 </article>
 
-    <!-- RNA Sequencing -->
-    <article class="project">
-      <div class="project-media">
-        <figure>
-          <img src="{{ site.baseurl }}/assets/eduardoimage.png"
-          <img src="assets/eduardoimage.png" alt="hello" loading="lazy"/>
-          <figcaption> RNA seq data... </figcaption>
-        </figure>
-      </div>
-      <div class="project-body">
-        <h2 class="project-title"><strong>RNA Sequencing</strong></h2>
-        <p class="project-summary">Using pooled CRISPR/Cas9 functional genomics, we discover and validate genes that overcome resistance to immunotherapy. We combine <em>in vitro</em> and <em>in vivo</em> models to define the patient subsets most likely to benefit from targeted interventions.</p>
-        <p class="project-contact">Contact: <a href="mailto:pi.lastname@yale.edu">PI Lastname</a></p>
-        <p class="project-tags">Keywords: CRISPR screens, interferon pathway, resistance mechanisms</p>
-      </div>
-    </article>
     <!-- Duplicate <article class="project">…</article> blocks for more projects -->
 
   </div>
-</section>
-
-<!--
-USAGE NOTES
-• Replace image src paths and alt text with your own.
-• Bolded titles are handled by the <strong> inside .project-title.
-• Keep each project in its own <article class="project"> block.
-• To add external links within summaries, just add <a href="https://…">…</a>.
-• All styles are scoped to this section and won’t clash with the rest of your theme.
--->
