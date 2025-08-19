@@ -82,7 +82,7 @@ Our primary research focuses on the following areas:
 </style>
 
   <div class="research-grid">
-    <!-- Project 1 -->
+    <!-- Chang-->
     <article class="project">
       <div class="project-media">
         <figure>
@@ -91,7 +91,7 @@ Our primary research focuses on the following areas:
         </figure>
       </div>
       <div class="project-body">
-        <h2 class="project-title"><strong>The role of RNA editing and dsRNA sensing in anti‑tumor immunity</strong></h2>
+        <h2 class="project-title"><strong>Title</strong></h2>
         <p class="project-summary">description...</p>
         <p class="project-contact">Contact: <a href="mailto:chang.zhang@yale.edu">Chang</a></p>
         <p class="project-tags">Keywords: ... </p>
