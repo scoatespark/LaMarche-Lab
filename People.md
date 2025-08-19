@@ -11,6 +11,13 @@ permalink: /Members/
     <p>Principal Investigator...</p>
   </div>
 </div>
+<div class="person">
+  <img class="profile-pic" src="{{ '/assets/Chang.png' | relative_url }}" alt="Chang Zhang">
+  <div>
+    <h2>Chang Zhang Ph.D</h2>
+    <p>Bio text…</p>
+  </div>
+</div>
 
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
   <img src="{{ site.baseurl }}/assets/Chang.png" alt="Post-doc" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
