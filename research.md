@@ -98,21 +98,21 @@ Our primary research focuses on the following areas:
       </div>
     </article>
 
-    <!-- Project 2 -->
-    <article class="project">
-      <div class="project-media">
-        <figure>
-          <img src="/assets/images/research/ifn-rescue-screen.png" alt="Scatter plot from a genome-wide CRISPR screen highlighting interferon pathway genes" loading="lazy"/>
-          <figcaption>Genome‑wide CRISPR screen for rescue of an IFN‑sensitization phenotype identifies key nodes.</figcaption>
-        </figure>
-      </div>
-      <div class="project-body">
-        <h2 class="project-title"><strong>Identification of novel drug targets for immunotherapy</strong></h2>
-        <p class="project-summary">Using pooled CRISPR/Cas9 functional genomics, we discover and validate genes that overcome resistance to immunotherapy. We combine <em>in vitro</em> and <em>in vivo</em> models to define the patient subsets most likely to benefit from targeted interventions.</p>
-        <p class="project-contact">Contact: <a href="mailto:pi.lastname@yale.edu">PI Lastname</a></p>
-        <p class="project-tags">Keywords: CRISPR screens, interferon pathway, resistance mechanisms</p>
-      </div>
-    </article>
+    <!-- Metastasis -->
+   <article class="project">
+  <div class="project-media">
+    <figure>
+      <img src="{{ '/assets/sashaimage.png' | relative_url }}" alt="Metastasis" loading="lazy"/>
+      <figcaption>Mets.</figcaption>
+    </figure>
+  </div>
+  <div class="project-body">
+    <h2 class="project-title"><strong>RNA Sequencing</strong></h2>
+    <p class="project-summary">Using pooled CRISPR/Cas9 functional genomics, we discover and validate genes that overcome resistance to immunotherapy. We combine <em>in vitro</em> and <em>in vivo</em> models to define the patient subsets most likely to benefit from targeted interventions.</p>
+    <p class="project-contact">Contact: <a href="mailto:"eduardo.menotisilva@yale.edu">Eduardo</a></p>
+    <p class="project-tags">Keywords: CRISPR screens, interferon pathway, resistance mechanisms</p>
+  </div>
+</article>
 
         <!-- Myelopoiesis -->
     <article class="project">
