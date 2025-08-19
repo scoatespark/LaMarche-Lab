@@ -86,15 +86,15 @@ Our primary research focuses on the following areas:
     <article class="project">
       <div class="project-media">
         <figure>
-          <img src="/assets/images/research/adar1-b16.png" alt="Heatmap-like microscopy images showing immune cell niches after loss of ADAR1 in B16 melanoma" loading="lazy"/>
-          <figcaption>Loss of ADAR1 reshapes the B16 melanoma tumor microenvironment.</figcaption>
+          <img src="/assets/Changimage.png" alt="Changimage.png" loading="lazy"/>
+          <figcaption>fig caption...</figcaption>
         </figure>
       </div>
       <div class="project-body">
         <h2 class="project-title"><strong>The role of RNA editing and dsRNA sensing in anti‑tumor immunity</strong></h2>
-        <p class="project-summary">We identified the RNA‑editing enzyme ADAR1 as a target to improve immune checkpoint blockade. We now investigate how unedited dsRNA activates innate pathways to enhance tumor rejection and how these mechanisms can be translated into durable patient benefit.</p>
-        <p class="project-contact">Contact: <a href="mailto:firstname.lastname@yale.edu">Firstname Lastname</a></p>
-        <p class="project-tags">Keywords: ADAR1, dsRNA, interferon signaling, checkpoint blockade</p>
+        <p class="project-summary">description...</p>
+        <p class="project-contact">Contact: <a href="mailto:chang.zhang@yale.edu">Chang</a></p>
+        <p class="project-tags">Keywords: ... </p>
       </div>
     </article>
 
@@ -107,10 +107,10 @@ Our primary research focuses on the following areas:
     </figure>
   </div>
   <div class="project-body">
-    <h2 class="project-title"><strong>RNA Sequencing</strong></h2>
-    <p class="project-summary">Using pooled CRISPR/Cas9 functional genomics, we discover and validate genes that overcome resistance to immunotherapy. We combine <em>in vitro</em> and <em>in vivo</em> models to define the patient subsets most likely to benefit from targeted interventions.</p>
-    <p class="project-contact">Contact: <a href="mailto:"eduardo.menotisilva@yale.edu">Eduardo</a></p>
-    <p class="project-tags">Keywords: CRISPR screens, interferon pathway, resistance mechanisms</p>
+    <h2 class="project-title"><strong>Title...</strong></h2>
+    <p class="project-summary">description...</p>
+    <p class="project-contact">Contact: <a href="mailto:"sasha.coates-park@yale.edu">Sasha</a></p>
+    <p class="project-tags">Keywords: ... </p>
   </div>
 </article>
 
@@ -124,9 +124,9 @@ Our primary research focuses on the following areas:
   </div>
       <div class="project-body">
         <h2 class="project-title"><strong>Myelopoiesis</strong></h2>
-        <p class="project-summary">        </p>
-        <p class="project-contact">Contact: <a href="mailto:firstname.lastname@yale.edu">Firstname Lastname</a></p>
-        <p class="project-tags">Keywords: ADAR1, dsRNA, interferon signaling, checkpoint blockade</p>
+        <p class="project-summary">description...</p>
+        <p class="project-contact">Contact: <a href="mailto:jake.fontaine@yale.edu">Jake</a></p>
+        <p class="project-tags">Keywords: ... </p>
       </div>
     </article>
     
@@ -135,14 +135,14 @@ Our primary research focuses on the following areas:
   <div class="project-media">
     <figure>
       <img src="{{ '/assets/eduardoimage.png' | relative_url }}" alt="RNA sequencing data" loading="lazy"/>
-      <figcaption>RNA seq data...</figcaption>
+      <figcaption>figcaption...</figcaption>
     </figure>
   </div>
   <div class="project-body">
     <h2 class="project-title"><strong>RNA Sequencing</strong></h2>
-    <p class="project-summary">Using pooled CRISPR/Cas9 functional genomics, we discover and validate genes that overcome resistance to immunotherapy. We combine <em>in vitro</em> and <em>in vivo</em> models to define the patient subsets most likely to benefit from targeted interventions.</p>
-    <p class="project-contact">Contact: <a href="mailto:"Menoti Silva, Eduardo" <eduardo.menotisilva@yale.edu>">Eduardo</a></p>
-    <p class="project-tags">Keywords: CRISPR screens, interferon pathway, resistance mechanisms</p>
+    <p class="project-summary">Description...</p>
+    <p class="project-contact">Contact: <a href="mailto:"eduardo.menotisilva@yale.edu">Eduardo</a></p>
+    <p class="project-tags">Keywords: key words...</p>
   </div>
 </article>
 
