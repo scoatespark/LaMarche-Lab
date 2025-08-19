@@ -121,7 +121,7 @@ These are some of the areas of research we are most involved in:
     <article class="project">
       <div class="project-media">
         <figure>
-          <img src="/assets/jakeimage.jpg" alt="Heatmap-like microscopy images showing immune cell niches after loss of ADAR1 in B16 melanoma" loading="lazy"/>
+          <img src="/assets/eduardoimage.png" alt="Heatmap-like microscopy images showing immune cell niches after loss of ADAR1 in B16 melanoma" loading="lazy"/>
           <figcaption>Understanding how lung cancer effects lymphocytes in regulating myelopoiesis."</figcaption>
         </figure>
       </div>
