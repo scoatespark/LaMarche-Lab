@@ -81,9 +81,6 @@ These are some of the areas of research we are most involved in:
   .project-tags{ font-size: .85rem; opacity:.85; }
 </style>
 
-<section class="research-wrap">
-  <h1 class="research-heading">Research</h1>
-
   <div class="research-grid">
     <!-- Project 1 -->
     <article class="project">
