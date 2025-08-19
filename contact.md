@@ -7,9 +7,9 @@ permalink: /contact/
 ## Contact Us
 
 **Email:** nelson.lamarche@yale.edu  
-**Phone:** (123) 456-7890  
+**Phone:** 203-737-7594
 **Address:**  
 LaMarche Lab  
-123 Science Road  
-Yale University  
-New Haven, CT 06520
+West Campus Advanced Biosciences Center
+840 West Campus Drive, Fl 3, Rm 357A
+West Haven, CT 06516
