@@ -139,10 +139,10 @@ Our primary research focuses on the following areas:
     </figure>
   </div>
   <div class="project-body">
-    <h2 class="project-title"><strong>RNA Sequencing</strong></h2>
-    <p class="project-summary">Description...</p>
+    <h2 class="project-title"><strong>Gene Expression in Human Cancers</strong></h2>
+    <p class="project-summary">We use RNA sequencing data from published human studies to connect our research directly to what is happening in patients. By analyzing these datasets, we can see which genes are active or inactive in tumors and the surrounding tissues, and how these patterns differ between cancers that spread and those that remain localized. This approach highlights the cells and signals that may be most important for metastasis, while also allowing us to compare our experimental findings with human data.</p>
     <p class="project-contact">Contact: <a href="mailto:eduardo.menotisilva@yale.edu>Eduardo</a></p>
-    <p class="project-tags">Keywords: key words...</p>
+    <p class="project-tags">Keywords: RNA Sequencing, Human Datasets, Metastasis, Cellular Pathways, Translational Research</p>
   </div>
 </article>
 
