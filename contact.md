@@ -7,7 +7,7 @@ permalink: /contact/
 ## Contact Us
 
 **Email:** nelson.lamarche@yale.edu  
-**Phone:** 203-737-7594
+**Phone:** (203)-737-7594
 **Address:**  
 LaMarche Lab  
 West Campus Advanced Biosciences Center
