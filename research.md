@@ -4,7 +4,7 @@ title: Research
 permalink: /about/
 ---
 
-We are currently exploring the following projects:
+These are some of the areas of research we are most involved in:
 
 <style>
   :root{
