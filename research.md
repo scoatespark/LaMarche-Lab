@@ -98,6 +98,22 @@ Our primary research focuses on the following areas:
       </div>
     </article>
 
+<!-- Myelopoiesis -->
+    <article class="project">
+      <div class="project-media">
+    <figure>
+      <img src="{{ '/assets/jakeimage.jpg' | relative_url }}" alt="myelopoiesis image" loading="lazy"/>
+      <figcaption>"Understanding how lung cancer affects lymphocytes in regulating myelopoiesis."</figcaption>
+    </figure>
+  </div>
+      <div class="project-body">
+        <h2 class="project-title"><strong>Myelopoiesis</strong></h2>
+        <p class="project-summary">description...</p>
+        <p class="project-contact">Contact: <a href="mailto:jak.fontaine@yale.edu">Jake</a></p>
+        <p class="project-tags">Keywords: ... </p>
+      </div>
+    </article>
+    
     <!-- Metastasis -->
    <article class="project">
   <div class="project-media">
@@ -114,22 +130,6 @@ Our primary research focuses on the following areas:
   </div>
 </article>
 
-        <!-- Myelopoiesis -->
-    <article class="project">
-      <div class="project-media">
-    <figure>
-      <img src="{{ '/assets/jakeimage.jpg' | relative_url }}" alt="myelopoiesis image" loading="lazy"/>
-      <figcaption>"Understanding how lung cancer affects lymphocytes in regulating myelopoiesis."</figcaption>
-    </figure>
-  </div>
-      <div class="project-body">
-        <h2 class="project-title"><strong>Myelopoiesis</strong></h2>
-        <p class="project-summary">description...</p>
-        <p class="project-contact">Contact: <a href="mailto:jak.fontaine@yale.edu">Jake</a></p>
-        <p class="project-tags">Keywords: ... </p>
-      </div>
-    </article>
-    
     <!-- RNA Sequencing -->
 <article class="project">
   <div class="project-media">
