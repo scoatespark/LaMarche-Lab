@@ -117,6 +117,22 @@ These are some of the areas of research we are most involved in:
       </div>
     </article>
 
+        <!-- Project 1 -->
+    <article class="project">
+      <div class="project-media">
+        <figure>
+          <img src="/assets/jakeimage.jpg" alt="Heatmap-like microscopy images showing immune cell niches after loss of ADAR1 in B16 melanoma" loading="lazy"/>
+          <figcaption>Understanding how lung cancer effects lymphocytes in regulating myelopoiesis."</figcaption>
+        </figure>
+      </div>
+      <div class="project-body">
+        <h2 class="project-title"><strong>RNA Sequencing</strong></h2>
+        <p class="project-summary">        </p>
+        <p class="project-contact">Contact: <a href="mailto:firstname.lastname@yale.edu">Firstname Lastname</a></p>
+        <p class="project-tags">Keywords: ADAR1, dsRNA, interferon signaling, checkpoint blockade</p>
+      </div>
+    </article>
+
     <!-- Duplicate <article class="project">…</article> blocks for more projects -->
 
   </div>
