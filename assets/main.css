@@ -135,7 +135,7 @@ html, body {
   display: flex;
   flex-direction: column;   /* stack image + caption */
   align-items: center;      /* center them horizontally */
-  max-width: 400px;         /* keep it from being too wide */
+  max-width: 300px;         /* keep it from being too wide */
   margin: 0 auto;           /* center the figure itself */
 }
 
