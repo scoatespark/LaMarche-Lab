@@ -110,7 +110,7 @@ html, body {
   color: #999;
 }
 .wrapper {
-  max-width: 1200px;   /* or 1000px if you prefer narrower */
+  max-width: 1000px;   /* or 1000px if you prefer narrower */
   margin: 0 auto;      /* centers it */
   padding: 0 20px;     /* adds breathing room left/right */
 }
