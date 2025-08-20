@@ -1,7 +1,13 @@
 title: LaMarche Lab
 description: Cancer. Immunology. Translational Research.
 theme: minima
-baseurl: "/LaMarche-Lab"
+
+# You added a CNAME → use your real domain here
+url: "lamarchelab.com"
+
+# Important: when using a custom domain, baseurl must be empty
+baseurl: ""
+
 plugins:
   - jekyll-sitemap
 
@@ -11,4 +17,3 @@ header_pages:
   - publications2.md
   - People.md
   - contact.md
-
