@@ -99,20 +99,24 @@ Our primary research focuses on the following areas:
     </article>
 
 <!-- Myelopoiesis -->
-    <article class="project">
-      <div class="project-media">
-    <figure>
-      <img src="{{ '/assets/jakeimage.png' | relative_url }}" alt="myelopoiesis" loading="lazy" class="research-image">
-      <figcaption>Understanding how lung cancer affects lymphocytes in regulating myelopoiesis</figcaption>
-    </figure>
+      <article class="project">
+  <div class="project-media">
+    <figure class="research-figure">
+  <img src="{{ '/assets/jakeimage.png' | relative_url }}" 
+       alt="myelopoiesis" 
+       class="research-image">
+  <figcaption>
+    Understanding how lung cancer affects lymphocytes in regulating myelopoiesis
+  </figcaption>
+</figure>
   </div>
-      <div class="project-body">
-        <h2 class="project-title"><strong>Lung Cancer-Driven Regulation of Myelopoiesis</strong></h2>
-        <p class="project-summary">We are investigating how lung cancer alters myelopoiesis by studying the signals that tumors send to lymphocytes and other immune cells, and how these changes reprogram the bone marrow to influence myeloid cell development and support cancer progression.</p>
-        <p class="project-contact">Contact: <a href="mailto:jak.fontaine@yale.edu">Jake</a></p>
-        <p class="project-tags">Keywords: Myelopoiesis, Bone Marrow, Lymphocytes </p>
-      </div>
-    </article>
+  <div class="project-body">
+    <h2 class="project-title"><strong>Lung Cancer-Driven Regulation of Myelopoiesis</strong></h2>
+    <p class="project-summary">We are investigating how lung cancer alters myelopoiesis by studying the signals that tumors send to lymphocytes and other immune cells, and how these changes reprogram the bone marrow to influence myeloid cell development and support cancer progression</p>
+    <p class="project-contact">Contact: <a href="mailto:jak.fontaine@yale.edu">Jake</a></p>
+    <p class="project-tags">Keywords: Myelopoiesis, Bone Marrow, Lymphocytes </p>
+  </div>
+</article>
     
     <!-- Metastasis -->
    <article class="project">
