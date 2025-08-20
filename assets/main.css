@@ -1,11 +1,5 @@
-body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
-}
-nav {
-  display: flex;
-  justify-content: center;
-  gap: 2rem;
-  padding: 1rem;
-}
+---
+# Jekyll will process this file
+---
+
+@import "minima";
