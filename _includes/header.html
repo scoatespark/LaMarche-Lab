@@ -1,7 +1,10 @@
-<header>
-  <div class="container">
-    <h1><a href="{{ "/" | relative_url }}">{{ site.title }}</a></h1>
-    <nav>
+<header class="site-header">
+  <div class="wrapper header-flex">
+    <a class="site-title" href="{{ '/' | relative_url }}">
+      <img src="{{ '/assets/Lablogo.png' | relative_url }}" alt="LaMarche Lab Logo" class="lab-logo">
+      {{ site.title }}
+    </a>
+    <nav class="site-nav">
       <ul>
         <li><a href="{{ "/" | relative_url }}">Home</a></li>
         <li><a href="{{ "/research" | relative_url }}">Research</a></li>
