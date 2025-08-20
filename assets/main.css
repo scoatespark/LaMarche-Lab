@@ -152,3 +152,14 @@ html, body {
   font-size: 0.9em;
   color: #333;
 }
+.project-media {
+  display: flex;
+  justify-content: center;  /* centers horizontally */
+  align-items: center;      /* centers vertically if there's extra height */
+  text-align: center;
+}
+
+.research-figure {
+  max-width: 90%;   /* keeps it responsive */
+  margin: 0 auto;   /* centers inside container */
+}
