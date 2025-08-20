@@ -102,7 +102,7 @@ Our primary research focuses on the following areas:
       <article class="project">
   <div class="project-media">
     <figure class="research-figure">
-  <img src="{{ '/assets/jakeimage.png' | relative_url }}" 
+  <img src="{{ '/assets/jakeimage.jpg' | relative_url }}" 
        alt="myelopoiesis" 
        class="research-image">
   <figcaption>
