@@ -64,8 +64,8 @@ permalink: /Members/
 <!-- Pet 1 -->
 <div style="flex: 1; min-width: 200px;">
   <img src="/assets/images/kitten.jpg" alt="Kitten" style="width:100%; max-width:150px; border-radius:50%;">
-  <h3>Pixel</h3>
-  <p>Resident kitten. Loves laser pointers and naps on lab notebooks.</p>
+  <h3>Nelson's children</h3>
+  <p>Doggos</p>
 </div>
 
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
