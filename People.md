@@ -57,7 +57,7 @@ permalink: /Members/
   <div>
     <h3>Justin Baldassarre</h3>
     <p class="person-position">Undergraduate Associate</p>
-    <p>...</p>
+    <p></p>
   </div>
 </div>
 
