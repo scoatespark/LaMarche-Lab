@@ -118,7 +118,7 @@ Our primary research focuses on the following areas:
    <article class="project">
   <div class="project-media">
     <figure>
-      <img src="{{ '/assets/sashaimage.png' | relative_url }}" alt="Metastasis" loading="lazy"/>
+      <img src="{{ '/assets/Sashaimage.png' | relative_url }}" alt="Metastasis" loading="lazy"/>
       <figcaption>Mets.</figcaption>
     </figure>
   </div>
