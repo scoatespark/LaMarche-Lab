@@ -3,7 +3,7 @@ description: Cancer. Immunology. Translational Research.
 theme: minima
 
 # You added a CNAME → use your real domain here
-url: "lamarchelab.com"
+url: "https://lamarchelab.com"
 
 # Important: when using a custom domain, baseurl must be empty
 baseurl: ""
