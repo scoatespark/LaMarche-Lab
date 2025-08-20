@@ -115,20 +115,23 @@ Our primary research focuses on the following areas:
     </article>
     
     <!-- Metastasis -->
-   <article class="project">
+     <article class="project">
   <div class="project-media">
     <figure class="research-figure">
   <div style="text-align: center; max-width: 300px; margin: 0 auto;">
-  <img src="{{ '/assets/Sashaimage.png' | relative_url }}" alt="Immunofluorescence staining" style="max-width:100%; border-radius:12px;"/>
+  <img src="{{ '/assets/Sashaimage.png' | relative_url }}" 
+       alt="Immunofluorescence Imaging" 
+       class="research-image">
   <p style="font-size: 14px; color:#333; margin-top:10px;">
-    Immunofluorescence staining of dural meninges showing nociceptors (magenta), myeloid cells (green), basophils (red), and nuclei (blue). 
+  <figcaption>
+     Immunofluorescence staining of dural meninges showing nociceptors (magenta), myeloid cells (green), basophils (red), and nuclei (blue). 
     This image highlights spatial interactions between nociceptors and immune cell populations within the tissue microenvironment.
-  </p>
-</div>
+  </figcaption>
+</figure>
   </div>
   <div class="project-body">
     <h2 class="project-title"><strong>Immune Crosstalk in Cancer Metastasis</strong></h2>
-    <p class="project-summary"> We are broadly focused on how cancers spread from primary tumors to distant organs, with an emphasis on the cellular and molecular mechanisms that prepare these secondary sites to receive tumor cells. In particular, we investigate the crosstalk between the immune system, stromal compartments, and the tumor itself, examining how these interactions contribute to the formation of supportive microenvironments that enable metastasis. By studying these processes, we aim to uncover how the immune and nervous systems shape metastatic niches and ultimately influence tumor progression, with the long-term goal of identifying strategies to disrupt these pathways and improve patient outcomes.</p>
+    <p class="project-summary">We are broadly focused on how cancers spread from primary tumors to distant organs, with an emphasis on the cellular and molecular mechanisms that prepare these secondary sites to receive tumor cells. In particular, we investigate the crosstalk between the immune system, stromal compartments, and the tumor itself, examining how these interactions contribute to the formation of supportive microenvironments that enable metastasis. By studying these processes, we aim to uncover how the immune and nervous systems shape metastatic niches and ultimately influence tumor progression, with the long-term goal of identifying strategies to disrupt these pathways and improve patient outcomes.</p>
     <p class="project-contact">Contact: <a href="mailto:sasha.coates-park@yale.edu">Sasha</a></p>
     <p class="project-tags">Keywords: Metastasis, Premetastatic Niche, Tumor Microenvironment, Myeloid Cells </p>
   </div>
