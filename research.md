@@ -103,7 +103,7 @@ Our primary research focuses on the following areas:
       <div class="project-media">
     <figure>
       <img src="{{ '/assets/jakeimage.jpg' | relative_url }}" alt="myelopoiesis image" loading="lazy"/>
-      <figcaption>"Understanding how lung cancer affects lymphocytes in regulating myelopoiesis."</figcaption>
+      <figcaption>Understanding how lung cancer affects lymphocytes in regulating myelopoiesis</figcaption>
     </figure>
   </div>
       <div class="project-body">
