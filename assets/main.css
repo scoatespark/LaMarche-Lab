@@ -3,3 +3,34 @@
 ---
 
 @import "minima";
+
+.header-center {
+  text-align: center;
+}
+
+.lab-logo {
+  height: 100px; /* adjust size */
+  width: auto;
+  margin-bottom: 10px;
+}
+
+.nav-links {
+  list-style: none;   /* removes bullets */
+  padding: 0;
+  margin: 0;
+}
+
+.nav-links li {
+  display: inline-block;  /* puts them in a row */
+  margin: 0 15px;         /* spacing between links */
+}
+
+.nav-links a {
+  text-decoration: none;
+  font-size: 18px;
+  color: #003366;   /* Yale-style dark blue */
+}
+
+.nav-links a:hover {
+  text-decoration: underline;
+}
