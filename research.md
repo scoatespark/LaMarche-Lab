@@ -135,7 +135,7 @@ Our primary research focuses on the following areas:
   <div class="project-media">
     <figure>
       <img src="{{ '/assets/eduardoimage.png' | relative_url }}" alt="RNA sequencing data" loading="lazy"/>
-      <figcaption>figcaption...</figcaption>
+      <figcaption>UMAP visualization of single-cell transcriptomic data generated in-house. Each point represents an individual cell, and cells are grouped according to transcriptional similarity. Distinct colors indicate different cell clusters.</figcaption>
     </figure>
   </div>
   <div class="project-body">
