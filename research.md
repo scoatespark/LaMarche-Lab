@@ -117,10 +117,17 @@ Our primary research focuses on the following areas:
     <!-- Metastasis -->
    <article class="project">
   <div class="project-media">
-    <figure>
-      <img src="{{ '/assets/Sashaimage.png' | relative_url }}" alt="Metastasis" loading="lazy" class="research-image">
-      <figcaption>Immunofluorescence staining of dural meninges showing nociceptors (magenta), myeloid cells (green), basophils (red), and nuclei (blue). This image highlights spatial interactions between nociceptors and immune cell populations within the tissue microenvironment.</figcaption>
-    </figure>
+    <figure class="research-figure">
+  <img src="{{ '/assets/Sashaimage.png' | relative_url }}" 
+       alt="Immunofluorescence staining" 
+       class="research-image">
+  <figcaption>
+    Immunofluorescence staining of dural meninges showing nociceptors (magenta), 
+    myeloid cells (green), basophils (red), and nuclei (blue). This image highlights 
+    spatial interactions between nociceptors and immune cell populations within 
+    the tissue microenvironment.
+  </figcaption>
+</figure>
   </div>
   <div class="project-body">
     <h2 class="project-title"><strong>Immune Crosstalk in Cancer Metastasis</strong></h2>
