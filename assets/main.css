@@ -151,6 +151,7 @@ html, body {
   text-align: center;       /* center caption text */
   font-size: 0.9em;
   color: #333;
+  max-width:100%;
   width: 90%;             /* caption takes 90% of the container width */
   margin-left: auto;      /* center horizontally */
   margin-right: auto;
