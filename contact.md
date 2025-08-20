@@ -5,8 +5,8 @@ permalink: /contact/
 ---
 
 
-**Email:** <a href="mailto:nelson.lamarche@yale.edu">nelson.lamarche@yale.edu</a>. <br>
-**Phone:** (203)-737-7594 <br>
+**Email:** <a href="mailto:nelson.lamarche@yale.edu">nelson.lamarche@yale.edu</a>. <br><br>
+**Phone:** (203)-737-7594 <br><br>
 **Address:**  <br>
 LaMarche Lab  <br>
 West Campus Advanced Biosciences Center <br>
