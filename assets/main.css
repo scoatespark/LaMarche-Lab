@@ -1,37 +1,46 @@
 ---
 # Jekyll will process this file
 ---
-
-.header-center {
-  text-align: center;
+/* Header bar */
+.lab-header__bar{
+  position: sticky; top: 0; z-index: 50;
+  display: grid; grid-template-columns: 1fr auto 1fr;
+  align-items: center;
+  background: #fff;
+  padding: 14px 24px;
+  box-shadow: 0 1px 0 rgba(0,0,0,.06);
 }
 
-.lab-logo {
-  height: 100px; /* adjust size */
-  width: auto;
-  margin-bottom: 10px;
+/* Logo */
+.lab-brand img{
+  height: 58px; /* tweak */
+  width: auto; display: block;
 }
 
-.nav-links {
-  list-style: none;   /* removes bullets */
-  padding: 0;
-  margin: 0;
+/* Centered nav */
+.lab-nav ul{
+  list-style: none; margin: 0; padding: 0;
+  display: flex; gap: 34px; align-items: center; justify-content: center;
 }
-
-.nav-links li {
-  display: inline-block;  /* puts them in a row */
-  margin: 0 15px;         /* spacing between links */
-}
-
-.nav-links a {
+.lab-nav a{
   text-decoration: none;
-  font-size: 18px;
-  color: #003366;   /* Yale-style dark blue */
+  text-transform: uppercase;
+  letter-spacing: .18em;
+  font-weight: 800;
+  font-size: 15px;
+  color: #9a9a9a;        /* light gray like the example */
+}
+.lab-nav a:hover{ color:#333; }
+.lab-nav a[aria-current="page"], .lab-nav a.current{ color:#000; } /* active */
+
+/* Mobile */
+@media (max-width: 880px){
+  .lab-header__bar{ grid-template-columns: 1fr; row-gap: 10px; }
+  .lab-brand{ justify-self: center; }
+  .lab-brand img{ height: 48px; }
+  .lab-nav ul{ flex-wrap: wrap; gap: 18px; }
 }
 
-.nav-links a:hover {
-  text-decoration: underline;
-}
 .footer-center {
   text-align: center;
   color: #777;   /* medium gray */
