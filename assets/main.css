@@ -20,8 +20,8 @@
 }
 
 .site-nav a {
-  font-size: 3rem;    /* enlarge nav links */
-  margin-left: 30px;    /* space between each tab */
+  font-size: 5rem;    /* enlarge nav links */
+  margin-left: 40px;    /* space between each tab */
 }
 
 /* Nav (horizontal, clickable, no bullets) */
