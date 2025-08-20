@@ -138,12 +138,16 @@ Our primary research focuses on the following areas:
 </article>
 
     <!-- RNA Sequencing -->
-<article class="project">
+   <article class="project">
   <div class="project-media">
-    <figure>
-      <img src="{{ '/assets/eduardoimage.png' | relative_url }}" alt="RNA sequencing data" loading="lazy" class="research-image">
-      <figcaption>UMAP visualization of single-cell transcriptomic data generated in-house. Each point represents an individual cell, and cells are grouped according to transcriptional similarity. Distinct colors indicate different cell clusters.</figcaption>
-    </figure>
+    <figure class="research-figure">
+  <img src="{{ '/assets/eduardoimage.png' | relative_url }}" 
+       alt="RNA Sequencing Data" 
+       class="research-image">
+  <figcaption>
+    UMAP visualization of single-cell transcriptomic data generated in-house. Each point represents an individual cell, and cells are grouped according to transcriptional similarity. Distinct colors indicate different cell clusters.
+  </figcaption>
+</figure>
   </div>
   <div class="project-body">
     <h2 class="project-title"><strong>Gene Expression in Human Cancers</strong></h2>
