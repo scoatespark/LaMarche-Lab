@@ -9,7 +9,7 @@ permalink: /Members/
   <div>
     <h3>Nelson LaMarche Ph.D</h3>
     <p class="person-position">Principal Investigator</p>
-    <p>...</p>
+    <p></p>
   </div>
 </div>
 
@@ -65,14 +65,6 @@ permalink: /Members/
 
 ## Lab Pets
 
-<div style="display: flex; flex-wrap: wrap; gap: 30px;">
-
-<!-- Pet 1 -->
-<div style="flex: 1; min-width: 200px;">
-  <img src="/assets/images/kitten.jpg" alt="Kitten" style="width:100%; max-width:150px; border-radius:50%;">
-  <h3>Nelson's children</h3>
-  <p>Doggos</p>
-</div>
 
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
   <img src="{{ site.baseurl }}/assets/Bean_Pinto.png" alt="Nelson LaMarche" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
