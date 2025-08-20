@@ -1,22 +1,19 @@
 <header class="lab-header">
-  <div class="lab-header__bar">
-    <!-- Left: logo (clicks home) -->
+  <div class="wrapper lab-header__row">
+    <!-- Logo (clicks home) -->
     <a class="lab-brand" href="{{ '/' | relative_url }}" aria-label="LaMarche Lab, home">
-      <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="LaMarche Lab logo">
+      <img src="{{ '/assets/Lablogo.png' | relative_url }}" alt="LaMarche Lab logo">
     </a>
 
-    <!-- Center: nav -->
+    <!-- Primary navigation -->
     <nav class="lab-nav" aria-label="Primary">
       <ul>
+        <li><a href="{{ '/' | relative_url }}">Home</a></li>
         <li><a href="{{ '/research/' | relative_url }}">Research</a></li>
-        <li><a href="{{ '/people/'   | relative_url }}">People</a></li>
         <li><a href="{{ '/publications/' | relative_url }}">Publications</a></li>
-        <!-- Add/remove items as you like -->
+        <li><a href="{{ '/people/' | relative_url }}">Members</a></li>
         <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
       </ul>
     </nav>
-
-    <!-- Right: spacer to keep nav centered -->
-    <div class="lab-header__spacer" aria-hidden="true"></div>
   </div>
 </header>
