@@ -51,7 +51,7 @@ permalink: /Members/
   <img src="{{ site.baseurl }}/assets/Justin.png" alt="Nelson LaMarche" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
   <div>
     <h3>Justin Baldassarre</h3>
-    <p>Undergraduate</p>
+    <p>Undergraduate researcher in the LaMarche Lab</p>
   </div>
 </div>
 
