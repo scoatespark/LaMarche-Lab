@@ -57,7 +57,7 @@ permalink: /Members/
 
 ---
 
-## 🐾 Lab Pets
+## Lab Pets
 
 <div style="display: flex; flex-wrap: wrap; gap: 30px;">
 
