@@ -34,3 +34,18 @@
 .nav-links a:hover {
   text-decoration: underline;
 }
+.footer-center {
+  text-align: center;
+  color: #777;   /* medium gray */
+  font-size: 14px;
+  margin-top: 40px;
+}
+
+.footer-center a {
+  color: #777;   /* gray links */
+  text-decoration: none;
+}
+
+.footer-center a:hover {
+  color: #333;   /* slightly darker on hover */
+}
