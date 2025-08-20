@@ -141,7 +141,7 @@ html, body {
 }
 
 .research-figure img {
-  max-width: 100%;
+  max-width: 80%;
   height: auto;
   border-radius: 10px;      /* optional: rounded corners */
 }
