@@ -100,6 +100,9 @@ html, body {
 
 .page-content {
   flex: 1; /* pushes footer down */
+  margin-top: 40px;   /* adjust this value for spacing */
+}
+
 }
 
 
