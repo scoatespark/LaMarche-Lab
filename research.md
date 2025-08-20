@@ -118,7 +118,7 @@ Our primary research focuses on the following areas:
    <article class="project">
   <div class="project-media">
     <figure>
-      <img src="{{ '/assets/Sashaimage.png' | relative_url }}" alt="Metastasis" loading="lazy"class="research-image">
+      <img src="{{ '/assets/Sashaimage.png' | relative_url }}" alt="Metastasis" loading="lazy" class="research-image">
       <figcaption>Immunofluorescence staining of dural meninges showing nociceptors (magenta), myeloid cells (green), basophils (red), and nuclei (blue). This image highlights spatial interactions between nociceptors and immune cell populations within the tissue microenvironment.</figcaption>
     </figure>
   </div>
