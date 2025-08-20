@@ -115,17 +115,17 @@ Our primary research focuses on the following areas:
     </article>
     
     <!-- Metastasis -->
-     <article class="project">
-  <div class="project-media">
-    <figure class="research-figure">
-  <div style="text-align: center; max-width: 300px; margin: 0 auto;">
-  <img src="{{ '/assets/Sashaimage.png' | relative_url }}" 
-       alt="Immunofluorescence Imaging" 
-       class="research-image">
-  <p style="font-size: 14px; color:#333; margin-top:10px;">
-  <figcaption>
-     Immunofluorescence staining of dural meninges showing nociceptors (magenta), myeloid cells (green), basophils (red), and nuclei (blue). 
-    This image highlights spatial interactions between nociceptors and immune cell populations within the tissue microenvironment.
+<figure class="research-figure" style="text-align: center; max-width: 400px; margin: 0 auto;">
+  <img src="{{ '/assets/Sashaimag.png' | relative_url }}"
+       alt="Immunofluorescence Imaging"
+       class="research-image"
+       style="max-width:100%; border-radius:12px;"/>
+
+  <figcaption style="font-size: 14px; color:#333; margin-top:10px;">
+    Immunofluorescence staining of dural meninges showing nociceptors (magenta), 
+    myeloid cells (green), basophils (red), and nuclei (blue). 
+    This image highlights spatial interactions between nociceptors and immune cell populations 
+    within the tissue microenvironment.
   </figcaption>
 </figure>
   </div>
