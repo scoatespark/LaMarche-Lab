@@ -134,6 +134,7 @@ html, body {
 .research-figure {
   display: flex;
   flex-direction: column;   /* stack image + caption */
+  justify-content: center;  /* centers horizontally */
   align-items: center;      /* center them horizontally */
   max-width: 300px;         /* keep it from being too wide */
   margin: 0 auto;           /* center the figure itself */
