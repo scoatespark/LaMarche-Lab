@@ -9,7 +9,7 @@ permalink: /Members/
   <div>
     <h3>Nelson LaMarche Ph.D</h3>
     <p class="person-position">Principal Investigator</p>
-    <p>Principal Investigator...</p>
+    <p>...</p>
   </div>
 </div>
 
