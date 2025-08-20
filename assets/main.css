@@ -7,20 +7,20 @@
   padding: 14px 0;           /* tweak if you want a taller/shorter bar */
 }
 .site-header {
-  height: 100px;        /* increase header height */
+  height: 150px;        /* increase header height */
   padding: 40px 0;      /* adds space above/below content */
   display: flex;
   align-items: center;  /* vertically centers logo + nav */
 }
 /* Logo */
 .lab-brand img{
-  height: 60px;              /* adjust to taste */
+  height: 70px;              /* adjust to taste */
   width: auto;
   display: block;
 }
 
 .site-nav a {
-  font-size: 2rem;    /* enlarge nav links */
+  font-size: 3rem;    /* enlarge nav links */
   margin-left: 30px;    /* space between each tab */
 }
 
