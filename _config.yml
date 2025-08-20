@@ -5,3 +5,10 @@ baseurl: "/LaMarche-Lab"
 plugins:
   - jekyll-sitemap
 
+header_pages:
+  - index.markdown
+  - research.md
+  - publications2.md
+  - People.md
+  - contact.md
+
