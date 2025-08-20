@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-permalink: /about/
+permalink: /research/
 ---
 
 Our primary research focuses on the following areas:
