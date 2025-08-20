@@ -160,6 +160,6 @@ html, body {
 }
 
 .research-figure {
-  max-width: 90%;   /* keeps it responsive */
+  max-width: 70%;   /* keeps it responsive */
   margin: 0 auto;   /* centers inside container */
 }
