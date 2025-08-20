@@ -121,3 +121,23 @@ html, body {
   display: block;
   margin: 0 auto;     /* centers it if in its own line */
 }
+.research-figure {
+  display: flex;
+  flex-direction: column;   /* stack image + caption */
+  align-items: center;      /* center them horizontally */
+  max-width: 400px;         /* keep it from being too wide */
+  margin: 0 auto;           /* center the figure itself */
+}
+
+.research-figure img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;      /* optional: rounded corners */
+}
+
+.research-figure figcaption {
+  margin-top: 10px;         /* add space between image and caption */
+  text-align: center;       /* center caption text */
+  font-size: 0.9em;
+  color: #333;
+}
