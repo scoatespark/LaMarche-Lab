@@ -18,7 +18,7 @@ permalink: /Members/
   <div>
     <h3>Chang Zhang Ph.D</h3>
     <p class="person-position">Postdoctoral Fellow</p>
-    <p>Chang received his PhD in Biochemistry and Molecular Biology in 2020 from Shanghai Institute for Biological Science, Chinese Academy of Science (CAS), where he was focusing on the splicing factor’s role in liver cancer. In 2020, he joined the Institute of Neuroscience of CAS to start his postdoctoral training on gene therapy based on CRISPR. In 2022, Chang joined Dr. Müschen's lab at Yale and investigated mitochondrial fission/fusion in B-cell development and B-cell malignancies. In 2024, he began his work with Dr. LaMarche at Yale, where he is currently working on discovering cytokine roles in controlling non-small cell lung cancer (NSCLC). He is also interested in how the distinctive immune microenvironment regulates tumorigenesis and in translating laboratory discoveries into clinical therapies. Chang loves Chinese calligraphy and music. He also cherishes his family, his wife, and their two lovely daughters. At home, they’re all his bosses.<br>Email him at <a href="mailto:chang.zhang@yale.edu">chang.zhang@yale.edu</a>.</p>
+    <p>Chang received his PhD in Biochemistry and Molecular Biology in 2020 from Shanghai Institute for Biological Science, Chinese Academy of Science (CAS), where he was focusing on the splicing factor’s role in liver cancer. In 2020, he joined the Institute of Neuroscience of CAS to start his postdoctoral training on gene therapy based on CRISPR. In 2022, Chang joined Dr. Müschen's lab at Yale and investigated mitochondrial fission/fusion in B-cell development and B-cell malignancies. In 2024, he began his work with Dr. LaMarche at Yale, where he is currently working on discovering cytokine roles in controlling non-small cell lung cancer (NSCLC). He is also interested in how the distinctive immune microenvironment regulates tumorigenesis and in translating laboratory discoveries into clinical therapies. Chang loves Chinese calligraphy and music. He also cherishes his family, his wife, and their two lovely daughters. At home, they’re all his bosses.Email him at <a href="mailto:chang.zhang@yale.edu">chang.zhang@yale.edu</a>.</p>
   </div>
 </div>
 
@@ -28,7 +28,7 @@ permalink: /Members/
     <h3>Sasha Coates–Park</h3>
     <p class="person-position">PhD Student</p>
     <p>
-      Sasha holds bachelor's degrees in Biochemistry and Neurobiology&Physiology from the University of Maryland (UMD). During her undergraduate studies she worked in a protein biochemistry lab at the National Institutes of Health (NIH), and a Chemical/Biomedical Engineering lab at UMD. After graduating, she completed a postbaccalaureate fellow in a pathology lab at NIH. As a graduate student in the LaMarche lab, her research now focuses on the interplay between the nervous and immune systems in regulating metastatic progression. She is especially interested in uncovering the mechanisms that drive or suppress brain metastases. In her free time, you can find her traveling, hiking, climbing, hanging out with her pets, building something, or abandoning yet another hobby. <br>Email her at <a href="mailto:sasha.coates-park@yale.edu">sasha.coates-park@yale.edu</a>.
+      Sasha holds bachelor's degrees in Biochemistry and Neurobiology&Physiology from the University of Maryland (UMD). During her undergraduate studies she worked in a protein biochemistry lab at the National Institutes of Health (NIH), and a Chemical/Biomedical Engineering lab at UMD. After graduating, she completed a postbaccalaureate fellow in a pathology lab at NIH. As a graduate student in the LaMarche lab, her research now focuses on the interplay between the nervous and immune systems in regulating metastatic progression. She is especially interested in uncovering the mechanisms that drive or suppress brain metastases. In her free time, you can find her traveling, hiking, climbing, hanging out with her pets, building something, or abandoning yet another hobby. Email her at <a href="mailto:sasha.coates-park@yale.edu">sasha.coates-park@yale.edu</a>.
     </p>
   </div>
 </div>
@@ -38,7 +38,7 @@ permalink: /Members/
   <div>
     <h3>Jake Fontaine</h3>
     <p class="person-position">PhD Student</p>
-    <p>Jake is a graduate student who graduated from Emory University in 2022. Upon joining the LaMarche Lab in 2024, his current research is focused on how solid tumors disrupt haematopoiesis, and how NK cells regulate the development of immune cells. He is also interested in elucidating how lung tumors impact B-cell-mediated antitumor immunity through chronic IL-4 signaling and disrupted crosstalk with myeloid cells. When he is not in lab, he enjoys PC gaming (shoutout to BG3 and Expedition 33) and tabletop games, like D&D and Catan. <br>Email him at <a href="mailto:jake.fontaine@yale.edu">jake.fontaine@yale.edu</a>.
+    <p>Jake is a graduate student who graduated from Emory University in 2022. Upon joining the LaMarche Lab in 2024, his current research is focused on how solid tumors disrupt haematopoiesis, and how NK cells regulate the development of immune cells. He is also interested in elucidating how lung tumors impact B-cell-mediated antitumor immunity through chronic IL-4 signaling and disrupted crosstalk with myeloid cells. When he is not in lab, he enjoys PC gaming (shoutout to BG3 and Expedition 33) and tabletop games, like D&D and Catan. Email him at <a href="mailto:jake.fontaine@yale.edu">jake.fontaine@yale.edu</a>.
     </p>
   </div>
 </div>
@@ -48,7 +48,7 @@ permalink: /Members/
   <div>
     <h3>Eduardo Menoti-Silva</h3>
     <p class="person-position">Postgraduate Associate</p>
-    <p>Eduardo is a Brazilian guy from the countryside, curious about technology and fascinated by all living things. He is interested in computational biology, machine learning, and immunology. In his spare time, he spends an alarming number of hours trying to figure out where he is in the world on GeoGuessr. <br>Email him at <a href="mailto:eduardo.menotisilva@yale.edu">eduardo.menotisilva@yale.edu</a>.</p>
+    <p>Eduardo is a Brazilian guy from the countryside, curious about technology and fascinated by all living things. He is interested in computational biology, machine learning, and immunology. In his spare time, he spends an alarming number of hours trying to figure out where he is in the world on GeoGuessr. Email him at <a href="mailto:eduardo.menotisilva@yale.edu">eduardo.menotisilva@yale.edu</a>.</p>
   </div>
 </div>
 
