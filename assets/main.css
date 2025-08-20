@@ -114,3 +114,10 @@ html, body {
   margin: 0 auto;      /* centers it */
   padding: 0 20px;     /* adds breathing room left/right */
 }
+.research-image {
+  max-width: 400px;   /* 👈 pick a size you like */
+  height: auto;       /* keeps proportions */
+  border-radius: 8px; /* optional, for rounded corners */
+  display: block;
+  margin: 0 auto;     /* centers it if in its own line */
+}
