@@ -15,6 +15,6 @@ plugins:
 header_pages:
   - index.markdown
   - research.md
-  - publications2.md
+  %% - publications2.md
   - People.md
   - contact.md
