@@ -28,7 +28,7 @@ permalink: /Members/
     <h3>Sasha Coates–Park</h3>
     <p class="person-position">PhD Student</p>
     <p>
-      During her undergraduate studies, Sasha worked in a protein biochemistry lab at the National Institutes of Health (NIH), and a Chemical/Biomedical Engineering lab at the University of Maryland. After graduating, she completed a postbaccalaureate fellow in a pathology lab at NIH. As a graduate student in the LaMarche lab, her research now focuses on the interplay between the nervous and immune systems in regulating metastatic progression. She is especially interested in uncovering the mechanisms that drive or suppress brain metastases. In her free time, you can find her traveling, hiking, climbing, hanging out with her pets, building something, or abandoning yet another hobby. Email her at <a href="mailto:sasha.coates-park@yale.edu">sasha.coates-park@yale.edu</a>.
+      Throughout her undergraduate studies, Sasha worked in a protein biochemistry lab at the National Institutes of Health (NIH), and a Chemical/Biomedical Engineering lab at the University of Maryland. After graduating, she completed a postbaccalaureate fellow in a pathology lab at NIH. As a graduate student in the LaMarche lab, her research now focuses on the interplay between the nervous and immune systems in regulating metastatic progression. She is especially interested in uncovering the mechanisms that drive or suppress brain metastases. In her free time, you can find her traveling, hiking, climbing, hanging out with her pets, building something, or abandoning yet another hobby. Email her at <a href="mailto:sasha.coates-park@yale.edu">sasha.coates-park@yale.edu</a>.
     </p>
   </div>
 </div>
