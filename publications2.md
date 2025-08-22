@@ -17,7 +17,7 @@ permalink: /publications/
   </h3>
   <p>LaMarche N, Hegde S, Park M, Maier B, Troncoso L, Le Berichel J, Hamon P, Belabed M, Mattiuz R, Hennequin C, Chin T, Reid A, Reyes-Torres I, Nemeth E, Zhang R, Olson O, Doroshow D, Rohs N, Gomez J, Veluswamy R, Hall N, Venturini N, Ginhoux F, Liu Z, Buckup M, Figueiredo I, Roudko V, Miyake K, Karasuyama H, Gonzalez-Kozlova E, Gnjatic S, Passegué E, Kim-Schulze S, Brown B, Hirsch F, Kim B, Marron T, Merad M.<br>
      <em>Nature</em> 2023, 625: 166-174.
-     <a href="[https://pubmed.ncbi.nlm.nih.gov/37804930/](https://www.nature.com/articles/s41586-023-06797-9)">PMID: 38057662</a>,
+     <a href="[https://pubmed.ncbi.nlm.nih.gov/37804930/](https://www.nature.com/articles/s41586-023-06797-9)">PMID:38057662</a>,
      DOI: 10.1038/s41586-023-06797-9
   </p>
   <em style="color: gray;">Peer-Reviewed Original Research</em>
