@@ -79,6 +79,8 @@
 
 .footer-left {
   max-width: 60%;
+  flex: 1;               /* take full width */
+  text-align: center;    /* center the text */
 }
 
 .footer-right {
