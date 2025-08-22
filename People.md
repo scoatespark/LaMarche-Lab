@@ -74,7 +74,7 @@ permalink: /Members/
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
   <img src="{{ site.baseurl }}/assets/Yarra.jpg" alt="Nelson LaMarche" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
   <div>
-    <h3>Yarra Waterloo (Chief Poochon Officer (CPO))</h3></h3>
+    <h3>Yarra Waterloo (Chief Poochon Officer (CPO))</h3>
     <p>Yarra spent the first 3 years of her life in NYC, but has quickly acclimated to life in Connecticut. Yarra can be found leading the pack on walks and keeping Wyatt in line. Yarra moonlights as the CPO in the LaMarche Lab, where she oversees all lab activities and assists in grant review.</p>
   </div>
 </div>
