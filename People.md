@@ -56,8 +56,8 @@ permalink: /Members/
   <img src="{{ site.baseurl }}/assets/Justin.png" alt="Nelson LaMarche" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
   <div>
     <h3>Justin Baldassarre</h3>
-    <p class="person-position">Justin is an undergraduate student pursuing degrees in Molecular, Cellular, and Developmental Biology and English. His research is focused on the differential procurement of myeloid populations in the bone marrow and the heterogeneity of myeloid cell contributions to anti-tumor immunity across different bone marrow depots. He is also interested in understanding the role of myeloid cells derived from the skull bone marrow in the formation of a premetastatic niche in the brain prior to brain metastasis. Outside of the lab, he loves rock climbing, writing creative non-fiction, and listening to music (favorites include Amy Winehouse, Bob Dylan, Geese, and Massive Attack, but he claims he’s open to “whatever”). Email him at<a href="mailto:justin.baldassarre@yale.edu">justin.baldassarre@yale.edu</p>
-    <p></p>
+    <p class="person-position">Undergraduate Research Associate</p>
+    <p>Justin is an undergraduate student pursuing degrees in Molecular, Cellular, and Developmental Biology and English. His research is focused on the differential procurement of myeloid populations in the bone marrow and the heterogeneity of myeloid cell contributions to anti-tumor immunity across different bone marrow depots. He is also interested in understanding the role of myeloid cells derived from the skull bone marrow in the formation of a premetastatic niche in the brain prior to brain metastasis. Outside of the lab, he loves rock climbing, writing creative non-fiction, and listening to music (favorites include Amy Winehouse, Bob Dylan, Geese, and Massive Attack, but he claims he’s open to “whatever”). Email him at<a href="mailto:justin.baldassarre@yale.edu">justin.baldassarre@yale.edu</p>
   </div>
 </div>
 
