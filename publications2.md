@@ -44,7 +44,7 @@ permalink: /publications/
 
 <div style="margin-bottom: 30px; padding: 20px; border-radius: 8px; background-color: #f9f9f9; box-shadow: 0 0 5px rgba(0,0,0,0.05);">
   <h3>
-    <a href="https://pubmed.ncbi.nlm.nih.gov/37081148/"
+    <a href="https://www.nature.com/articles/s41590-023-01475-4"
        style="color: #0056b3; text-decoration: none;"
        onmouseover="this.style.color='#003366'"
        onmouseout="this.style.color='#0056b3'">
