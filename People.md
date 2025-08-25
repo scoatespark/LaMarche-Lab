@@ -37,7 +37,7 @@ permalink: /Members/
   <img src="{{ site.baseurl }}/assets/Jake.png" alt="Nelson LaMarche" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
   <div>
     <h3>Jake Fontaine</h3>
-    <p class="person-position">PhD Student</p>
+    <p class="person-position">PhD Candidate</p>
     <p>Jake is a graduate student who graduated from Emory University in 2022. Upon joining the LaMarche Lab in 2024, his current research is focused on how solid tumors disrupt haematopoiesis, and how NK cells regulate the development of immune cells. He is also interested in elucidating how lung tumors impact B-cell-mediated antitumor immunity through chronic IL-4 signaling and disrupted crosstalk with myeloid cells. When he is not in lab, he enjoys PC gaming (shoutout to BG3 and Expedition 33) and tabletop games, like D&D and Catan. Email him at <a href="mailto:jake.fontaine@yale.edu">jake.fontaine@yale.edu</a>.
     </p>
   </div>
