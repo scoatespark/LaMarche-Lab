@@ -25,7 +25,7 @@ permalink: /publications/
 
 <div style="margin-bottom: 30px; padding: 20px; border-radius: 8px; background-color: #f9f9f9; box-shadow: 0 0 5px rgba(0,0,0,0.05);">
   <h3>
-    <a href="[https://pubmed.ncbi.nlm.nih.gov/32516575/](https://www.sciencedirect.com/science/article/pii/S1550413120302564?via%3Dihub)"
+    <a href="https://www.sciencedirect.com/science/article/pii/S1550413120302564?via%3Dihub"
        style="color: #0056b3; text-decoration: none;"
        onmouseover="this.style.color='#003366'"
        onmouseout="this.style.color='#0056b3'">
