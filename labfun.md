@@ -2,6 +2,7 @@
 layout: page
 title: Lab Fun
 permalink: /labfun/
+game_url: [https://username.github.io/my-wordle-game/](https://edumenotti.github.io/cytokine-wordle/)
 ---
 
 <style>
