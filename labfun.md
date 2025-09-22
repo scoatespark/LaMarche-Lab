@@ -9,6 +9,7 @@ permalink: /labfun/
 <p>Use the hint button to learn about your cytokine</p>
 
 [Cytokine of the Day](https://edumenotti.github.io/cytokine-wordle/)
+
 <br>
 ---
 <br>
