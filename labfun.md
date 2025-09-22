@@ -14,5 +14,5 @@ permalink: /labfun/
 
 <br>
 <h2>Photos incoming… </h2>
-<p>We’re collecting our favorite lab moments. Check back soon!</p>
+<p>We’re collecting our favorite lab moments.</p>
 
