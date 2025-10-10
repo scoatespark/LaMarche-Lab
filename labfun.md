@@ -71,9 +71,14 @@ permalink: /labfun/
   width: 100%;
   height: 100%;
   max-height: 350px;
-  object-fit: contain;   /* show full image, no cropping */
+  object-fit: cover;   /* show full image, no cropping */
   border-radius: 10px;
   box-shadow: 0 2px 6px rgba(0,0,0,0.2);
   background-color: #fafafa;
+
+  @media (max-width: 900px) {
+  .photo-collage {
+    grid-template-columns: 1fr; /* stack on mobile */
+  }
 }
 </style>
