@@ -13,7 +13,31 @@ permalink: /labfun/
 <br>
 
 <br>
+
+
+<div class="photo-collage">
+  <img src="/assets/septmeberinbankpk.heic" alt="Lab group 1">
+
+</div>
+
+<style>
+.photo-collage {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 12px;
+  justify-items: center;
+  align-items: center;
+}
+
+.photo-collage img {
+  width: 100%;
+  height: 100%;
+  max-height: 350px;
+  object-fit: contain;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+  background-color: #fafafa;
+}
+</style>
 <h2>More photos incoming… </h2>
 <p>We’re compiling our favorite lab moments.</p>
-
-<img src="/assets/septemberinbangkpk.heic" style="width:80%; max-width:800px; border-radius:15px; display:block; margin:auto;">
