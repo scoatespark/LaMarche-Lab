@@ -23,7 +23,7 @@ permalink: /labfun/
 <br><br>
 
 <!-- Collage (now outside of any <style> block) -->
-<div class="photo-collage">
+<div class="photo-collage-vertical">
   <img src="/assets/SeptemberinBangkok.png" alt="Lab dinner">
   <img src="/assets/LabFieldDay.png" alt="Lab Field Day">
 </div>
