@@ -17,7 +17,7 @@ permalink: /labfun/
 
 <div class="photo-collage-vertical">
   <img src="/assets/SeptemberinBangkok.png" alt="Lab dinner">
-  <img src="/assets/Labfieldday.png" alt="Field day with the lab">
+  <img src="/assets/LabFieldDay.png" alt="Field day with the lab">
 </div>
 
 <style>
