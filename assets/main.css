@@ -169,3 +169,15 @@ html, body {
   max-width: 70%;   /* keeps it responsive */
   margin: 0 auto;   /* centers inside container */
 }
+/* Make navigation links larger and a bit bolder */
+.lab-nav ul li a {
+  font-size: 1.2rem;   /* increase text size (default is often 1rem) */
+  font-weight: 600;    /* optional: makes it semi-bold */
+  letter-spacing: 0.02em; /* gives it a clean spaced look */
+}
+
+/* Optional: increase spacing between menu items */
+.lab-nav ul li {
+  margin-left: 20px;  /* adjust as needed */
+}
+
