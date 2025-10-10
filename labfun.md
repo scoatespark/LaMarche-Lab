@@ -11,7 +11,7 @@ permalink: /labfun/
 
   <!-- Clickable image on the right -->
   <a class="cta-image" href="https://edumenotti.github.io/cytokine-wordle/" target="_blank" rel="noopener" aria-label="Play Cytokine of the Day">
-    <img src="/assets/images/labfun/cytokineoftheday.png" alt="Cytokine of the Day game preview">
+    <img src="/assets/cytokineoftheday.png" alt="Cytokine of the Day game preview">
   </a>
 </div>
 
