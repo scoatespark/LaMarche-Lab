@@ -10,19 +10,21 @@ permalink: /labfun/
 <p>Use the hint button to learn about your cytokine</p>
 
  <!-- Smaller clickable image -->
-  <a class="cta-image-small" href="https://edumenotti.github.io/cytokine-wordle/" target="_blank" rel="noopener" aria-label="Play Cytokine of the Day">
-    <img src="/assets/images/labfun/cytokineoftheday.png" alt="Cytokine of the Day game preview">
-  </a>
+ <div class="cta-image">
+    <a href="https://edumenotti.github.io/cytokine-wordle/" target="_blank" rel="noopener" aria-label="Play Cytokine of the Day">
+      <img src="/assets/cytokineoftheday.png" alt="Cytokine of the Day game preview">
+    </a>
+  </div>
 </div>
 
 <br><br>
 
 <style>
-.cta-row.small {
+.cta-row {
   display: flex;
   align-items: center;
   justify-content: flex-start;
-  gap: 20px;
+  gap: 25px;
   flex-wrap: wrap;
 }
 
@@ -31,31 +33,30 @@ permalink: /labfun/
   min-width: 280px;
 }
 
-.cta-image-small {
+.cta-image {
   flex: 0 0 auto;
-  width: 180px; /* adjust size here */
-  display: block;
 }
 
-.cta-image-small img {
-  width: 100%;
+.cta-image img {
+  width: 150px; /* adjust image size */
   height: auto;
-  border-radius: 10px;
+  border-radius: 8px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.15);
   transition: transform 0.2s ease;
+  vertical-align: middle;
 }
 
-.cta-image-small:hover img {
+.cta-image img:hover {
   transform: scale(1.05);
 }
 
 @media (max-width: 700px) {
-  .cta-row.small {
+  .cta-row {
     flex-direction: column;
-    align-items: center;
+    align-items: flex-start;
   }
-  .cta-image-small {
-    width: 50%;
+  .cta-image img {
+    width: 60%;
     margin-top: 10px;
   }
 }
