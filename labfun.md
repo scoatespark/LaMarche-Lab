@@ -22,14 +22,15 @@ permalink: /labfun/
 
 <br><br>
 
+<h2>More photos incoming… </h2>
+<p>We’re compiling our favorite lab moments.</p>
+
 <!-- Collage (now outside of any <style> block) -->
 <div class="photo-collage">
   <img src="/assets/SeptemberinBangkok.png" alt="Lab dinner">
   <img src="/assets/LabFieldDay.png" alt="Lab Field Day">
 </div>
 
-<h2>More photos incoming… </h2>
-<p>We’re compiling our favorite lab moments.</p>
 
 <style>
 /* Right-side thumbnail next to text */
