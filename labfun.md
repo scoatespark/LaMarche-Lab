@@ -15,28 +15,26 @@ permalink: /labfun/
 <br>
 
 
-<div class="photo-collage">
-  <img src="/assets/SeptemberinBangkok.png" alt="Lab group 1">
-  <img src="/assets/Labfieldday.png" alt="Lab group 1">
-
+<div class="photo-collage-vertical">
+  <img src="/assets/SeptemberinBangkok.png" alt="Lab dinner">
+  <img src="/assets/Labfieldday.png" alt="Field day with the lab">
 </div>
 
 <style>
-.photo-collage {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 12px;
-  justify-items: center;
+.photo-collage-vertical {
+  display: flex;
+  flex-direction: column;
   align-items: center;
+  gap: 20px;
 }
 
-.photo-collage img {
-  width: 100%;
-  height: 100%;
-  max-height: 350px;
+.photo-collage-vertical img {
+  width: 90%;
+  max-width: 900px;
+  height: auto;
   object-fit: contain;
-  border-radius: 10px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+  border-radius: 12px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.15);
   background-color: #fafafa;
 }
 </style>
