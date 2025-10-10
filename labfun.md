@@ -16,4 +16,4 @@ permalink: /labfun/
 <h2>More photos incoming… </h2>
 <p>We’re compiling our favorite lab moments.</p>
 
-<img src="/assets/septemberinbangkok.heic" style="width:80%; max-width:800px; border-radius:15px; display:block; margin:auto;">
+<img src="/assets/septemberinbangkpk.heic" style="width:80%; max-width:800px; border-radius:15px; display:block; margin:auto;">
