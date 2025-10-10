@@ -52,6 +52,15 @@ permalink: /Members/
 </div>
 
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+  <img src="{{ site.baseurl }}/assets/Wally.jpeg" alt="Wally" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
+  <div>
+    <h3>Wally Aman</h3>
+    <p class="person-position">Undergraduate Research Associate</p>
+    <p>Wally is an undergraduate student majoring in Molecular, Cellular, and Developmental Biology. She is interested in cancer biology and immunology. In her spare time, she enjoys hanging out with friends and going to the beach. Email her at <a href="mailto:wally.aman@yale.edu"> wally.aman@yale.edu</a>.
+    </p>
+  </div>
+</div>
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
   <img src="{{ site.baseurl }}/assets/Justin.png" alt="Nelson LaMarche" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
   <div>
     <h3>Justin Baldassarre</h3>
