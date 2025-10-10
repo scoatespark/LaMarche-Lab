@@ -62,8 +62,8 @@ permalink: /labfun/
 }
 
  <div class="photo-collage">
-  <img src="/assets/SeptemberinBangkok.png" alt="Lab group 1">
-  <img src="/assets/LabFieldDay.png" alt="Lab group 2">
+  <img src="/assets/SeptemberinBangkok.png" alt="Lab dinner">
+  <img src="/assets/LabFieldDay.png" alt="Lab Field Day">
 </div>
 
 <style>
