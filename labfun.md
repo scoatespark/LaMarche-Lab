@@ -16,7 +16,7 @@ permalink: /labfun/
 
 
 <div class="photo-collage">
-  <img src="/assets/septmeberinbankpk.heic" alt="Lab group 1">
+  <img src="/assets/SeptemberinBangkok.png" alt="Lab group 1">
 
 </div>
 
