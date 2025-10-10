@@ -20,45 +20,26 @@ permalink: /labfun/
 <br><br>
 
 <style>
-.cta-row {
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-  gap: 25px;
-  flex-wrap: wrap;
-}
-
-.cta-copy {
-  flex: 1 1 400px;
-  min-width: 280px;
-}
-
-.cta-image {
-  flex: 0 0 auto;
-}
-
-.cta-image img {
-  width: 150px; /* adjust image size */
+.inline-image {
+  float: right;
+  width: 150px;     /* adjust size as needed */
   height: auto;
-  border-radius: 8px;
+  margin-left: 20px;
+  margin-bottom: 10px;
+  border-radius: 10px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.15);
   transition: transform 0.2s ease;
-  vertical-align: middle;
 }
 
-.cta-image img:hover {
+.inline-image:hover {
   transform: scale(1.05);
 }
 
-@media (max-width: 700px) {
-  .cta-row {
-    flex-direction: column;
-    align-items: flex-start;
-  }
-  .cta-image img {
-    width: 60%;
-    margin-top: 10px;
-  }
+/* clears float for any following content */
+p::after {
+  content: "";
+  display: block;
+  clear: both;
 }
 </style>
 <br>
