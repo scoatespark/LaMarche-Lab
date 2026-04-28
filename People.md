@@ -43,7 +43,7 @@ permalink: /Members/
 </div>
 
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
-  <img src="{{ site.baseurl }}/assets/victor.png" alt="victor" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
+  <img src="{{ site.baseurl }}/assets/victor.jpg" alt="victor" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
   <div>
     <h3>Victor Miranda</h3>
     <p class="person-position">PhD Student</p>
@@ -104,7 +104,7 @@ permalink: /Members/
   </div>
 </div>
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
-  <img src="{{ site.baseurl }}/assets/jonny.png" alt="jonny" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
+  <img src="{{ site.baseurl }}/assets/jonny.jpeg" alt="jonny" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
   <div>
     <h3>Jonny</h3>
   </div>
