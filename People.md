@@ -88,7 +88,7 @@ permalink: /Members/
   </div>
 </div>
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
-  <img src="{{ site.baseurl }}/assets/Bean" alt="bean" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
+  <img src="{{ site.baseurl }}/assets/Bean.png" alt="bean" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
   <div>
     <h3>Bean</h3>
     <p>Bean survived a housefire, was abandoned, and then rescued from a roof in Maryland. When he was found, he was obese from all of the amazing people who fed him while he was a stray. He now enjoys his daily walks, and he has amassed a horde of adoring fans who pet and cheer him along his weight loss journey.
@@ -101,7 +101,7 @@ permalink: /Members/
   </div>
 </div>
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
-  <img src="{{ site.baseurl }}/assets/Pinto2" alt="pinto" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
+  <img src="{{ site.baseurl }}/assets/Pinto2.png" alt="pinto" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
   <div>
     <h3>Pinto</h3>
     <p>Pinto was picked out of a gutter in Puerto Rico. She was half dead and has had an incredible recovery; now she has an endless supply of energy, a fear of abandonment, and loves to hang out on Sasha's shoulders. Bean is the peace to Pinto's chaos; even with a six-year age gap, they are best friends.</p>
