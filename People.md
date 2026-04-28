@@ -95,16 +95,16 @@ permalink: /Members/
   </div>
 </div>
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+  <img src="{{ site.baseurl }}/assets/jonny.jpeg" alt="jonny" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
+  <div>
+    <h3>Jonny</h3>
+  </div>
+</div>
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
   <img src="{{ site.baseurl }}/assets/Pinto2" alt="pinto" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
   <div>
     <h3>Pinto</h3>
     <p>Pinto was picked out of a gutter in Puerto Rico. She was half dead and has had an incredible recovery; now she has an endless supply of energy, a fear of abandonment, and loves to hang out on Sasha's shoulders. Bean is the peace to Pinto's chaos; even with a six-year age gap, they are best friends.</p>
-  </div>
-</div>
-<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
-  <img src="{{ site.baseurl }}/assets/jonny.jpeg" alt="jonny" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
-  <div>
-    <h3>Jonny</h3>
   </div>
 </div>
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
