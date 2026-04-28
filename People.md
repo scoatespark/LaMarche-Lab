@@ -43,6 +43,16 @@ permalink: /Members/
 </div>
 
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+  <img src="{{ site.baseurl }}/assets/victor.png" alt="victor" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
+  <div>
+    <h3>Victor Miranda</h3>
+    <p class="person-position">PhD Student</p>
+    <p>Victor completed his undergraduate at Stanford University, where he studied the role of protein post-translational modifications in tumorigenesis. Upon graduation, he joined an NIH PREP program at Yale University to dissect transcriptional regulators of CD8 and CD4 T cell biology. As a graduate student in the LaMarche lab, Victor is curious to define novel molecular pathways rewired by the tumor microenvironment. In his free time, you can catch Victor breaking out in dance in public, exploring the city, soaking up the sun with an iced coffee and friends, and cuddling with his luscious cat. Email him at <a href="mailto:victor.miranda@yale.edu">victor.miranda@yale.edu</a>.
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
   <img src="{{ site.baseurl }}/assets/Eduardo.jpg" alt="Nelson LaMarche" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
   <div>
     <h3>Eduardo Menotti</h3>
@@ -91,6 +101,12 @@ permalink: /Members/
   <div>
     <h3>Bean and Pinto</h3>
     <p>Bean (right) survived a housefire, was abandoned, and then rescued from a roof in Maryland. When he was found, he was obese from all of the amazing people who fed him while he was a stray. He now enjoys his daily walks, and he has amassed a horde of adoring fans who pet and cheer him along his weight loss journey. <br><br>Pinto (left) was picked out of a gutter in Puerto Rico. She was half dead and has had an incredible recovery; now she has an endless supply of energy, a fear of abandonment, and loves to hang out on Sasha's shoulders. Bean is the peace to Pinto's chaos; even with a six-year age gap, they are best friends.</p>
+  </div>
+</div>
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+  <img src="{{ site.baseurl }}/assets/jonny.png" alt="jonny" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
+  <div>
+    <h3>Jonny</h3>
   </div>
 </div>
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
