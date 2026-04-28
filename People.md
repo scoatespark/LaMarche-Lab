@@ -53,6 +53,16 @@ permalink: /Members/
 </div>
 
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+  <img src="{{ site.baseurl }}/assets/sarah.jpeg" alt="sarah" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
+  <div>
+    <h3>Sarah Noel</h3>
+    <p class="person-position">PhD Student</p>
+    <p>Sarah received her bachelors in Biochemistry and Molecular Biology in 2023 from the Pennsylvania State University where she worked in various cancer labs. Upon graduating, she joined the Manguso Lab as a Research Associate at the Broad Institute of MIT and Harvard where she used functional genomics to investigate novels mechanisms of immune evasion in leukemias. As a graduate student in the LaMarche Lab, she hopes to investigate how systemic crosstalk between primary tumors and distant sites influence tumor progression. In her free time, you can find her chatting with friends, reading a book, sipping a coffee, listening to music, or petting somebody else’s pet. Email her at <a href="mailto:sarah.noel@yale.edu">sarah.noel@yale.edu</a>.
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
   <img src="{{ site.baseurl }}/assets/Eduardo.jpg" alt="Nelson LaMarche" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
   <div>
     <h3>Eduardo Menotti</h3>
