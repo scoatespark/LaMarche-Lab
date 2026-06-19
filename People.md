@@ -23,6 +23,16 @@ permalink: /Members/
 </div>
 
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+  <img src="{{ site.baseurl }}/assets/Anthony.jpeg" alt="anthony" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
+  <div>
+    <h3>Anthony Luzzi</h3>
+    <p class="person-position">Lab Manager</p>
+    <p>Anthony completed his bachelor's and master's degrees at the University of Connecticut after studying molecular and cell biology, with a focus on genetics and utilizing bioinformatics for analyses. When he's not in the lab, he enjoys baking, video games, and being with his fiancée. Email him at <a href="mailto:a.luzzi@yale.edu">a.luzzi@yale.edu</a>.
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
   <img src="{{ site.baseurl }}/assets/Sasha.2.png" alt="Sasha" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
   <div>
     <h3>Sasha Coates–Park</h3>
