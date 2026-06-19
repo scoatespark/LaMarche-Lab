@@ -127,6 +127,9 @@ permalink: /Members/
     <p>Maple (left) was adopted after being in a hoarding case of 40+ animals and has an unhealthy dependence on fuzz balls which she keeps hitting underneath cabinets, fridges, and any object with even a 1" gap and screams for help when they are all out of reach. She also has a one-way love for her brother.<br><br>Jax (right) was adopted after showing up on someone's doorstep and being brought to the shelter and supported Anthony through his master's degree with unlimited cuddles as long as his food bowl was full. All of his teeth were pulled due to poor dental hygiene from having FIV. Jax tolerates his sister but does smack her when he is hangry (within 4 hours of feeding time).</p>
   </div>
 </div>
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+  <img src="{{ site.baseurl }}/assets/pinto2.jpeg" alt="pinto" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
+   <div>
   <div>
     <h3>Pinto</h3>
     <p>Pinto was picked up out of a gutter in Puerto Rico. She was half dead and has had an incredible recovery; now she has an endless supply of energy, a fear of abandonment, and loves to hang out on Sasha's shoulders. Bean is the peace to Pinto's chaos; even with a six-year age gap, they are best friends.</p>
