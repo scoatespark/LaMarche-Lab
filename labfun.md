@@ -34,6 +34,7 @@ permalink: /labfun/
 
 
 <style>
+
 /* Right-side thumbnail next to text */
 .cta-row {
   display: flex;
@@ -42,44 +43,69 @@ permalink: /labfun/
   gap: 25px;
   flex-wrap: wrap;
 }
-.cta-copy { flex: 1 1 400px; min-width: 280px; }
-.cta-image { flex: 0 0 auto; }
+
+.cta-copy {
+  flex: 1 1 400px;
+  min-width: 280px;
+}
+
+.cta-image {
+  flex: 0 0 auto;
+}
+
 .cta-image img {
-  width: 150px;   /* keep this size */
+  width: 150px;
   height: auto;
   border-radius: 8px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.15);
   vertical-align: middle;
   transition: transform 0.2s ease;
 }
-.cta-image img:hover { transform: scale(1.05); }
 
-@media (max-width: 700px) {
-  .cta-row { flex-direction: column; align-items: flex-start; }
-  .cta-image img { width: 60%; margin-top: 10px; }
+.cta-image img:hover {
+  transform: scale(1.05);
 }
 
-/* Collage */
+/* Photo collage */
 .photo-collage {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 12px;
-  justify-items: center;
-  align-items: center;
+  column-count: 3;
+  column-gap: 12px;
   margin-top: 1rem;
 }
+
 .photo-collage img {
   width: 100%;
-  height: 100%;
-  max-height: 350px;
-  object-fit: cover;   /* show full image, no cropping */
+  height: auto;
+  display: block;
+  margin-bottom: 12px;
+  break-inside: avoid;
+
   border-radius: 10px;
   box-shadow: 0 2px 6px rgba(0,0,0,0.2);
-  background-color: #fafafa;
+}
 
-  @media (max-width: 900px) {
+/* Tablet */
+@media (max-width: 900px) {
   .photo-collage {
-    grid-template-columns: 1fr; /* stack on mobile */
+    column-count: 2;
   }
 }
+
+/* Mobile */
+@media (max-width: 700px) {
+  .cta-row {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .cta-image img {
+    width: 60%;
+    margin-top: 10px;
+  }
+
+  .photo-collage {
+    column-count: 1;
+  }
+}
+
 </style>
