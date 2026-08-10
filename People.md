@@ -150,6 +150,9 @@ permalink: /Members/
 </div>
 <!-- Wally Aman -->
 <div>
+   <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+  <img src="{{ site.baseurl }}/assets/Wally.jpeg" alt="Wally" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
+  <div>
     <h3>Wally Aman</h3>
     <p>Former undergraduate research associate in the LaMarche Lab, currently interning at Johnson & Johnson</p>
   </div>
