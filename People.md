@@ -157,6 +157,8 @@ permalink: /Members/
     <p>Former undergraduate research associate in the LaMarche Lab, currently interning at Johnson & Johnson</p>
   </div>
 <div>
+<!-- George Mourgkos -->
+<div>
     <h3>George Mourgkos</h3>
     <p>Former post-graduate associate in the LaMarche Lab, currently pursuing an MD at Stanford Medical School</p>
   </div>
