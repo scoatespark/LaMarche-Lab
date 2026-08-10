@@ -144,8 +144,7 @@ permalink: /Members/
   <img src="{{ site.baseurl }}/assets/Eduardo.jpg" alt="Nelson LaMarche" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
   <div>
     <h3>Eduardo Menotti</h3>
-    <p class="person-position">Postgraduate Research Associate</p>
-    <p>Eduardo is a Brazilian guy from the countryside, curious about technology and fascinated by all living things. He is interested in computational biology, machine learning, and immunology. In his spare time, he spends an alarming number of hours trying to figure out where he is in the world on GeoGuessr. Email him at <a href="mailto:eduardo.menotisilva@yale.edu">eduardo.menotisilva@yale.edu</a>.</p>
+    <p>Former postgraduate research associate in the LaMarche Lab, currently pursuing a PhD at the University of São Paulo
   </div>
 </div>
 <!-- Wally Aman -->
