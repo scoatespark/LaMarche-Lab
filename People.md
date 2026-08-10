@@ -138,26 +138,53 @@ permalink: /Members/
 
 ## Previous Members
 
-<div style="display: flex; flex-wrap: wrap; gap: 30px;">
+<div style="display: flex; flex-direction: column; gap: 30px;">
 
-  <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
-  <img src="{{ site.baseurl }}/assets/Eduardo.jpg" alt="Nelson LaMarche" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
-  <div>
-    <h3>Eduardo Menotti</h3>
-    <p>Former postgraduate research associate in the LaMarche Lab, currently pursuing a PhD at the University of São Paulo
+  <!-- Eduardo Menotti -->
+  <div style="display: flex; align-items: center; gap: 20px;">
+    <img src="{{ site.baseurl }}/assets/Eduardo.jpg" 
+         alt="Eduardo Menotti" 
+         style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
+
+    <div>
+      <h3>Eduardo Menotti</h3>
+      <p>
+        Former postgraduate research associate in the LaMarche Lab, 
+        currently pursuing a PhD at the University of São Paulo
+      </p>
+    </div>
   </div>
+
+
+  <!-- Wally Aman -->
+  <div style="display: flex; align-items: center; gap: 20px;">
+    <img src="{{ site.baseurl }}/assets/Wally.jpeg" 
+         alt="Wally Aman" 
+         style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
+
+    <div>
+      <h3>Wally Aman</h3>
+      <p>
+        Former undergraduate research associate in the LaMarche Lab, 
+        currently interning at Johnson & Johnson
+      </p>
+    </div>
+  </div>
+
+
+  <!-- George Mourgkos -->
+  <div style="display: flex; align-items: center; gap: 20px;">
+
+    <div style="width: 150px; flex-shrink: 0;"></div>
+
+    <div>
+      <h3>George Mourgkos</h3>
+      <p>
+        Former post-graduate associate in the LaMarche Lab, 
+        currently pursuing an MD at Stanford Medical School
+      </p>
+    </div>
+
+  </div>
+
 </div>
-<!-- Wally Aman -->
-<div>
-   <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
-  <img src="{{ site.baseurl }}/assets/Wally.jpeg" alt="Wally" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">
-  <div>
-    <h3>Wally Aman</h3>
-    <p>Former undergraduate research associate in the LaMarche Lab, currently interning at Johnson & Johnson</p>
-  </div>
-<div>
-<!-- George Mourgkos -->
-<div>
-    <h3>George Mourgkos</h3>
-    <p>Former post-graduate associate in the LaMarche Lab, currently pursuing an MD at Stanford Medical School</p>
-  </div>
