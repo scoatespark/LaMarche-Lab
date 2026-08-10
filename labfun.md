@@ -30,7 +30,7 @@ permalink: /labfun/
   <img src="/assets/SeptemberinBangkok.png" alt="Lab dinner">
   <img src="/assets/LabFieldDay.png" alt="Lab Field Day">
   <img src="/assets/dinner_2.png" alt="Lab dinner 2">
-  <img src="bye_eduardo.png" alt="edu's last day">
+  <img src="/assets/bye_eduardo.png" alt="edu's last day">
 </div>
 
 
