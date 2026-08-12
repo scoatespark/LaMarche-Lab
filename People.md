@@ -150,7 +150,7 @@ permalink: /Members/
       <h3>Eduardo Menotti</h3>
       <p>
         Former postgraduate research associate in the LaMarche Lab, 
-        currently pursuing a PhD at the University of São Paulo
+        currently pursuing a PhD in medical physiopathology in the University of São Paulo
       </p>
     </div>
   </div>
